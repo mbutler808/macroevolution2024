@@ -28,5 +28,5 @@ Very optional commentary (read after you do your concept map):
 
 ## Dani
 
-<img width="700" src="./Jacob1977_conceptmap_dbartz.pdf" >
+<img width="700" src="./Jacob1977_conceptmap_dbartz.png" >
 
