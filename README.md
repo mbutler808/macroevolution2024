@@ -8,14 +8,14 @@
 
 ### Jan 9  *Organizational Day*  
 
-### Jan 11 - Evolution and Concept Mapping
+### [Jan 11](./discussions/2024-01-11-tinkerer/README.md) - Evolution and Concept Mapping
 
 [A Concept Map How-to](./concept_map/concept-map.md)
 
 1. [Jacob, F. 1977](http://web.mit.edu/~tkonkle/www/BrainEvolution/Meeting9/Jacob%201977%20Science.pdf). Evolution and Tinkering. *Science*. 196(4295):1161-1166.  
 
 Very optional commentary (read after you do your concept map):
-[Racine, Valerie 2014](https://embryo.asu.edu/items/172791), by Francois Jacob". Embryo Project Encyclopedia ( 2014-10-24 ). ISSN: 1940-5030 https://hdl.handle.net/10776/8227
+[Racine, Valerie 2014](https://embryo.asu.edu/items/172791) "Evolution and Tinkering" (1977), by Francois Jacob". Embryo Project Encyclopedia ( 2014-10-24 ). ISSN: 1940-5030 https://hdl.handle.net/10776/8227
 
 ### Jan 16 - I. Darwinism and Macroevolution  
 
@@ -34,13 +34,13 @@ Very optional commentary (read after you do your concept map):
 
 6. [Darwin, C. 1871](https://biodiversitylibrary.org/page/20266196). *The Descent of Man, and Selection in Relation to Sex*. John Murray, London. (Chapter 21; pgs. 368-387)  
 
-### [Jan 25]() - III. Tempo and Mode in Evolution  
+### [Jan 25] - III. Tempo and Mode in Evolution  
 
 7. [Gould, S. J. 1995](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and mode in the macroevolutionary reconstruction of Darwinism. Pp. 125-144 in W. M. Fitch and F. J. Ayala (eds.) Tempo and Mode in Evolution: Genetics and Paleontology 50 Years after Simpson. National Academy Press, Washington.  
 
 8. [Simpson, G. G. 1944](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and Mode in Evolution. Columbia Univ. Press, New York. (Pp. 197-217)  
 
-### [Jan 30]() - IV. Construction of Higher Taxa A. Evolutionary Taxonomy  
+### [Jan 30] - IV. Construction of Higher Taxa A. Evolutionary Taxonomy  
 
 9. ([pp.338-359) Simpson, G. G. 1953](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Major Features of Evolution. Columbia Univ. Press, New York. (Pp. 338-359)  
 
@@ -237,7 +237,7 @@ FYI:
 This is a graduate course exploring ideas about the generation of biodiversity through space and time at the species level and above. We will conduct close reading of major papers in evolutionary biology to sharpen critical thinking skills and deepen understanding of the major ideas in the field of macroevolution.
 
 ### __Mechanics:__  
-The course will meet twice weekly TTh 10:30-11:45am. Each session will involve a reading and small group discussion. Students will demonstrate understanding in three take-home midterms on the readings. Grading: Students will be graded 25% on participation, and 75% on 2 midterms.
+The course will meet twice weekly TTh 10:30-11:45am. Each session will involve a reading and small group discussion. Students will demonstrate understanding in take-home midterms on the readings. Grading: Students will be graded 25% on participation, and 75% on 2 midterms.
 
 ### __Topics:__
 1. Darwinism and higher taxa
