@@ -17,15 +17,15 @@
 Very optional commentary (read after you do your concept map):
 [Racine, Valerie 2014](https://embryo.asu.edu/items/172791) "Evolution and Tinkering" (1977), by Francois Jacob". Embryo Project Encyclopedia ( 2014-10-24 ). ISSN: 1940-5030 https://hdl.handle.net/10776/8227
 
-### \[[Jan 17](./discussions/2024-01-17-darwinism/2-3.Mayr.md)\] - I. Darwinism and Macroevolution  
+### \[[Jan 17](./discussions/2024-01-17-darwinism/2-3.mayr.md)\] - I. Darwinism and Macroevolution  
 
-2. [Mayr, E. 1982](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). *The Growth of Biological Thought*. Harvard Univ. Press. (Pp. 21-78)  
+2. [Mayr, E. 1982](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). *The Growth of Biological Thought*. Harvard Univ. Press. (Pp. 21-78)  **map:Rai**
 
-3. [Mayr, E. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Darwin's five theories of evolution. Pp. 755-772 in D. Kohn (ed.) *The Darwinian Heritage*. Princeton Univ. Press, Princeton.  
+3. [Mayr, E. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Darwin's five theories of evolution. Pp. 755-772 in D. Kohn (ed.) *The Darwinian Heritage*. Princeton Univ. Press, Princeton.  **map:Dani**
 
-### Jan 18 - II. Darwinism  
+### \[[Jan 18](./discussions/2024-01-18-darwin1/4.darwin.md)\] - II. Darwinism  
 
-4. [Darwin, C. 1859](https://www.biodiversitylibrary.org/item/135954#page/10/mode/2up). *On the Origin of Species*. First Edition. John Murray, London. (Chapters 1-5; pgs. 7-170)  
+4. [Darwin, C. 1859](https://www.biodiversitylibrary.org/item/135954#page/10/mode/2up). *On the Origin of Species*. First Edition. John Murray, London. (Chapters 1-5; pgs. 7-170)  **map:Danny**
 
 
 ### Jan 23
