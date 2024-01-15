@@ -23,7 +23,7 @@ Very optional commentary (read after you do your concept map):
 
 3. [Mayr, E. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Darwin's five theories of evolution. Pp. 755-772 in D. Kohn (ed.) *The Darwinian Heritage*. Princeton Univ. Press, Princeton.  **map:Dani**
 
-### \[[Jan 18](./discussions/2024-01-18-darwin1/4.darwin.md)\] - II. Darwinism  
+### \[[Jan 18](./discussions/2024-01-18-darwin/4.darwin.md)\] - II. Darwinism  
 
 4. [Darwin, C. 1859](https://www.biodiversitylibrary.org/item/135954#page/10/mode/2up). *On the Origin of Species*. First Edition. John Murray, London. (Chapters 1-5; pgs. 7-170)  **map:Danny**
 
