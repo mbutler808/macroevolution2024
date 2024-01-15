@@ -8,7 +8,7 @@
 
 ### Jan 9  *Organizational Day*  
 
-### [Jan 11](./discussions/2024-01-11-tinkerer/README.md) - Evolution and Concept Mapping
+### \[[Jan 11](./discussions/2024-01-11-tinkerer/README.md)\] - Evolution and Concept Mapping
 
 [A Concept Map How-to](./concept_map/concept-map.md)
 
@@ -17,7 +17,7 @@
 Very optional commentary (read after you do your concept map):
 [Racine, Valerie 2014](https://embryo.asu.edu/items/172791) "Evolution and Tinkering" (1977), by Francois Jacob". Embryo Project Encyclopedia ( 2014-10-24 ). ISSN: 1940-5030 https://hdl.handle.net/10776/8227
 
-### Jan 16 - I. Darwinism and Macroevolution  
+### \[[Jan 17](./discussions/2024-01-17-darwinism/2-3.Mayr.md)\] - I. Darwinism and Macroevolution  
 
 2. [Mayr, E. 1982](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). *The Growth of Biological Thought*. Harvard Univ. Press. (Pp. 21-78)  
 
