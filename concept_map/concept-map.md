@@ -15,6 +15,7 @@ Concept maps are visual representations of an argument or hypothesis.  It is a d
 - **Heirarchical arrangement** from the most general and inclusive concepts at the top, and linking refinements or subsidary ideas heirarchichally. 
 - **Cross-links** connect relationships between different domains of the concept map, to show relationships across domains (at a broader scale).
 
+<img width="700" src="./DescentOfMan.png">
 <img width="700" src="./concept_map_example.png">
 
 ### Developing good concept maps usually require some revision
