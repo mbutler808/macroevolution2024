@@ -124,7 +124,7 @@ Just FYI (not assigned, some other amazing papers):
 
 ### [Mar 7]
 
-34. De Quieroz, K. 2007. Species concepts and species delimitation. *Systematic Biology*, Volume 56, Issue 6, December 2007, Pages 879–886, <https://doi.org/10.1080/10635150701701083>
+34. de Quieroz, K. 2007. Species concepts and species delimitation. *Systematic Biology*, Volume 56, Issue 6, December 2007, Pages 879–886, <https://doi.org/10.1080/10635150701701083>
 
 35. [Felsenstein, J. 2004. Chapter 10](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). A digression on history and philosophy. Pp. 123-146 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
 
