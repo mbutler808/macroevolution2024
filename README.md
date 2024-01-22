@@ -30,23 +30,24 @@ Very optional commentary (read after you do your concept map):
 
 ### Jan 23
 
-5. (cont'd, [ch6](https://biodiversitylibrary.org/page/42663184), [ch14](https://biodiversitylibrary.org/page/42663472) ) Darwin, C. 1859. *On the Origin of Species*. First Edition. John Murray, London. (Chapters 6, 14; pgs. 171-206,459-490)  
+5. (cont'd, [ch6](https://biodiversitylibrary.org/page/42663184), [ch14](https://biodiversitylibrary.org/page/42663472) ) Darwin, C. 1859. *On the Origin of Species*. First Edition. John Murray, London. (Chapters 6, 14; pgs. 171-206,459-490)  **map:Rai**
 
-6. [Darwin, C. 1871](https://biodiversitylibrary.org/page/20266196). *The Descent of Man, and Selection in Relation to Sex*. John Murray, London. (Chapter 21; pgs. 368-387)  
+6. [Darwin, C. 1871](https://biodiversitylibrary.org/page/20266196). *The Descent of Man, and Selection in Relation to Sex*. John Murray, London. (Chapter 21; pgs. 368-387)  **map:Danny**
+
 
 ### [Jan 25] - III. Tempo and Mode in Evolution  
 
-7. [Gould, S. J. 1995](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and mode in the macroevolutionary reconstruction of Darwinism. Pp. 125-144 in W. M. Fitch and F. J. Ayala (eds.) Tempo and Mode in Evolution: Genetics and Paleontology 50 Years after Simpson. National Academy Press, Washington.  
+7. [Gould, S. J. 1995](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and mode in the macroevolutionary reconstruction of Darwinism. Pp. 125-144 in W. M. Fitch and F. J. Ayala (eds.) Tempo and Mode in Evolution: Genetics and Paleontology 50 Years after Simpson. National Academy Press, Washington.  **map:Marguerite**
 
-8. [Simpson, G. G. 1944](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and Mode in Evolution. Columbia Univ. Press, New York. (Pp. 197-217)  
+8. [Simpson, G. G. 1944](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and Mode in Evolution. Columbia Univ. Press, New York. (Pp. 197-217)  **map:Marguerite**
 
 ### [Jan 30] - IV. Construction of Higher Taxa A. Evolutionary Taxonomy  
 
-9. ([pp.338-359) Simpson, G. G. 1953](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Major Features of Evolution. Columbia Univ. Press, New York. (Pp. 338-359)  
+9. ([pp.338-359) Simpson, G. G. 1953](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Major Features of Evolution. Columbia Univ. Press, New York. (Pp. 338-359)  **map:Marguerite**
 
-10. [Mayr, E. 1987](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Ontological Status of Species: Scientific Progress and Philosophical Terminology. Biology and Philosophy 2(1987)145--166.  
+10. [Mayr, E. 1987](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Ontological Status of Species: Scientific Progress and Philosophical Terminology. Biology and Philosophy 2(1987)145--166.  **map:Dani**
 
-11. [Miller, A. H. 1949](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Some ecologic and morphologic considerations in the evolution of higher taxonomic categories. Pp. 84-88 in E. Mayr and E. Schuz (eds.) Ornithologie als Biologische Wissenschaft. Carl Winter/Universitätsverlag, Heidelberg.  
+11. [Miller, A. H. 1949](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Some ecologic and morphologic considerations in the evolution of higher taxonomic categories. Pp. 84-88 in E. Mayr and E. Schuz (eds.) Ornithologie als Biologische Wissenschaft. Carl Winter/Universitätsverlag, Heidelberg.  **map:Rai**
 
 ### [Feb 1](./Feb_25/README.md) - IV.B. Phenetic versus Cladistic Taxonomy  
 
