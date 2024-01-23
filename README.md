@@ -28,7 +28,7 @@ Very optional commentary (read after you do your concept map):
 4. [Darwin, C. 1859](https://www.biodiversitylibrary.org/item/135954#page/10/mode/2up). *On the Origin of Species*. First Edition. John Murray, London. (Chapters 1-5; pgs. 7-170)  **map:Danny**
 
 
-### Jan 23
+### \[[Jan 23](./discussions/2024-01-23-darwin2/5.darwin2.md)\]
 
 5. (cont'd, [ch6](https://biodiversitylibrary.org/page/42663184), [ch14](https://biodiversitylibrary.org/page/42663472) ) Darwin, C. 1859. *On the Origin of Species*. First Edition. John Murray, London. (Chapters 6, 14; pgs. 171-206,459-490)  **map:Rai**
 
