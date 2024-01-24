@@ -35,7 +35,7 @@ Very optional commentary (read after you do your concept map):
 6. [Darwin, C. 1871](https://biodiversitylibrary.org/page/20266196). *The Descent of Man, and Selection in Relation to Sex*. John Murray, London. (Chapter 21; pgs. 368-387)  **map:Danny**
 
 
-### [Jan 25] - III. Tempo and Mode in Evolution  
+### [Jan 25](./discussions/2024-01-25-tempo-mode/7-8.tempo-mode.md)\] - III. Tempo and Mode in Evolution  
 
 7. [Gould, S. J. 1995](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and mode in the macroevolutionary reconstruction of Darwinism. Pp. 125-144 in W. M. Fitch and F. J. Ayala (eds.) Tempo and Mode in Evolution: Genetics and Paleontology 50 Years after Simpson. National Academy Press, Washington.  **map:Marguerite**
 
