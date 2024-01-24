@@ -35,7 +35,7 @@ Very optional commentary (read after you do your concept map):
 6. [Darwin, C. 1871](https://biodiversitylibrary.org/page/20266196). *The Descent of Man, and Selection in Relation to Sex*. John Murray, London. (Chapter 21; pgs. 368-387)  **map:Danny**
 
 
-### [Jan 25](./discussions/2024-01-25-tempo-mode/7-8.tempo-mode.md)\] - III. Tempo and Mode in Evolution  
+### \[[Jan 25](./discussions/2024-01-25-tempo-mode/7-8.tempo-mode.md)\] - III. Tempo and Mode in Evolution  
 
 7. [Gould, S. J. 1995](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and mode in the macroevolutionary reconstruction of Darwinism. Pp. 125-144 in W. M. Fitch and F. J. Ayala (eds.) Tempo and Mode in Evolution: Genetics and Paleontology 50 Years after Simpson. National Academy Press, Washington.  **map:Marguerite**
 
@@ -49,7 +49,7 @@ Very optional commentary (read after you do your concept map):
 
 11. [Miller, A. H. 1949](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Some ecologic and morphologic considerations in the evolution of higher taxonomic categories. Pp. 84-88 in E. Mayr and E. Schuz (eds.) Ornithologie als Biologische Wissenschaft. Carl Winter/Universitätsverlag, Heidelberg.  **map:Rai**
 
-### [Feb 1](./Feb_25/README.md) - IV.B. Phenetic versus Cladistic Taxonomy  
+### [Feb 1] - IV.B. Phenetic versus Cladistic Taxonomy  
 
 12. [Sneath, P. H. A. and R. R. Sokal. 1973](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Numerical Taxonomy. W. H. Freeman and Co., San Francisco. (Pp. 5, 9-10, 27-30).    
 
@@ -57,13 +57,13 @@ Very optional commentary (read after you do your concept map):
 
 
 
-### [Feb 6]() - V. Evolutionary Morphology and Homology A. Taxic Homology  
+### [Feb 6] - V. Evolutionary Morphology and Homology A. Taxic Homology  
 
 14. [Patterson, C. 1982](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Morphological characters and homology. Pp. 21-74 in K. A. Joysey and A. E. Friday (eds.) Problems of Phylogenetic Reconstruction. Academic Press, New York.   
 
 15. [de Queiroz, K. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The ontogenetic method for determining character polarity and its relevance to phylogenetic systematics. Systematic Zoology 34:280-299.    
 
-### [Feb 8]() - V.B. Transformational Homology  
+### [Feb 8] - V.B. Transformational Homology  
 
 16. [Kaplan, D. R. 1984](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The concept of homology and its central role in the elucidation of plant systematic relationships. Pp. 51-70 in T. Duncan and T. F. Stuessy (eds.) Cladistics: Perspectives on the Reconstruction of Evolutionary History. Columbia Univ. Press, New York.   
 
@@ -72,13 +72,13 @@ Very optional commentary (read after you do your concept map):
 18. [Roth, V. L. 1991](). Homology and heirarchies: Problems solved and unresolved.
 
 
-### [Feb 13]() - V.C. Heterochrony and Ontogenetic Repatterning   
+### [Feb 13] - V.C. Heterochrony and Ontogenetic Repatterning   
 
 19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. Nature Reviews Genetics 8:473-479.    
 
 20. [Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Size and shape in ontogeny and phylogeny. Paleobiology 5:296-317.     
 
-### [Feb 15]() - V.D. Modularity and Genetic Architecture
+### [Feb 15] - V.D. Modularity and Genetic Architecture
 
 21. [Raff, R. A. and G. A. Wray. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Heterochrony: Developmental mechanisms and evolutionary results. Journal of Evolutionary Biology 2:409-434.    
 
@@ -91,7 +91,7 @@ Very optional commentary (read after you do your concept map):
 
 24. [Wagner, G. P., M. Pavlicev and J. M. Cheverud. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The road to modularity. Nature Reviews Genetics 8:921-931. 
 
-### [Feb 22]() - V.E. Evo Devo and the Genetics of Adaptation  
+### [Feb 22] - V.E. Evo Devo and the Genetics of Adaptation  
 
 25. [Carroll, S. B. 2008](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evo-devo and an expanding evolutionary synthesis: a genetic theory of morphological evolution. Cell 134:25-36. 
 
@@ -107,7 +107,7 @@ Just FYI (not assigned, some other amazing papers):
 
 29. [Hoekstra, H. E., Coyne, J. A. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The locus of evolution: Evo Devo and the Genetics of Adaptation. Evolution 61(5):995-1016.  
 
-### [Feb 29]() - Key Innovations  
+### [Feb 29] - Key Innovations  
 
 30. [Galis, F. 2001](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Key innovations and radiations. Pp. 581-605 in G. P. Wagner (ed.) The Character Concept in Evolutionary Biology. Academic Press, San Diego. 
 
@@ -116,7 +116,7 @@ Just FYI (not assigned, some other amazing papers):
 ### [Wicked-good critiques of the Adaptationist program: a brief digression](./Adaptationist.md)
 
 
-### [Mar 5]() - Species Concepts/ Speciation  
+### [Mar 5] - Species Concepts/ Speciation  
 
 32. [Paterson, H. E. H. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The recognition concept of species. Transvaal Museum Monograph 4:21-29. 
 
@@ -130,7 +130,7 @@ Just FYI (not assigned, some other amazing papers):
 35. [Felsenstein, J. 2004. Chapter 10](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). A digression on history and philosophy. Pp. 123-146 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
 
 
-### [Mar 12]() - Phylogenetic models
+### [Mar 12] - Phylogenetic models
 
 36. [Felsenstein, J. 2004. Chapter 13](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Models of DNA evolution. Pp. 196-221 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
 
@@ -141,7 +141,7 @@ FYI:
 38. Edwards, Cavalli-Sforza 1964. Reconstruction of evolutionary trees. pp. 67-76 in PHenetic and phylogenetic classification, V. H. Heywood and J. McNeill (eds.) Systematics Association Publ. No. 6, London.  
 
 
-### [Mar 14]() - Bayesian methods and dating  
+### [Mar 14] - Bayesian methods and dating  
 
 39. [Felsenstein, J. 2004. Chapter 16](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Likelihood Methods. Pp. 248-274 in Inferring Phylogenies. Sinauer Assoc., Sunderland.    
 
@@ -159,7 +159,7 @@ FYI:
 ### Mar 28  Exam I  - Due April 4
 
 
-### [Apr 2]() - Bayesian methods, Molecular approaches to Adaptation  
+### [Apr 2] - Bayesian methods, Molecular approaches to Adaptation  
 
 42. Maddison, W. P. 1997. Gene trees in species trees. Systematic Biology 46(3):523-536  
 
@@ -171,21 +171,21 @@ FYI:
 44. [Yang, Z., Nielsen, R. 2002](./57.YangNielsen2002.pdf) Substitution models for detecting molecular adaptation at individual sites along specific lineages. Mol. Biol. Evol. 19(6):908-917.   
 
 
-### [Apr 9]() - Adaptation and Ecomorphology  
+### [Apr 9] - Adaptation and Ecomorphology  
 
 45. [Arnold, S. J. 1983.](./58.Arnold1983.pdf) Morphology, Performance, and Fitness. American Zoologist 23:347-361.  
 
 46. [Losos, J. B. 1990.](./59.Losos1990.pdf) Ecomorphology, performance capability, and scaling of West Indian Anolis lizards: an evolutionary analysis. Ecological Monographs, 60(3):369-388.    
 
 
-### [Apr 11](./Apr_21/README.md) - Phylogenetic Comparative Methods  
+### [Apr 11] - Phylogenetic Comparative Methods  
 
 47. [Felsenstein, J. 1985.](./60.Felsenstein1985.pdf) Phylogenies and the comparative method. American Naturalist 125:1-15.   
 
 48. [Butler, M. A., and King, A. A. 2004.](./61.ButlerKing2004.pdf) Phylogenetic comparative analysis: a modeling approach for adaptive evolution. American Naturalist 164:683-695. [Appendix](./61.ButlerKing2004appendix.pdf)   
 
 
-### [Apr 16](./Apr_23/README.md) - Diversity through Time  
+### [Apr 16] - Diversity through Time  
 
 49. Nee, S. 2006. Birth-death models in macroevolution. Ann. Rev. Ecol. Evol. Syst. 37:1-17. DOI: 10.1146/annurev.ecolsys.37.091305.110035  
 
@@ -201,7 +201,7 @@ FYI:
 
 
 
-### [Apr 23](./Apr_28/README.md) - Phylogenetic approaches to Biogeography  
+### [Apr 23] - Phylogenetic approaches to Biogeography  
 
 55. [Ree, R. H., and Smith, S. A. 2008](./65.ReeSmith2008.pdf). Maximum likelihood inference of geographical range evolution by dispersal, local extinction, and cladogenesis. Systematic Biology, 57(1):4-14. 
 
@@ -210,21 +210,21 @@ FYI:
 57. Ronquist, F., Sanmartin, I. 2011. Phylogenetic Methods in Biogeography. Annu. Rev. Ecol. Evol. Syst. 42:441–64. DOI: 10.1146/annurev-ecolsys-102209-144710  
 
 
-### [Apr 25](./Apr_30/README.md) - Hybridization  
+### [Apr 25] - Hybridization  
 
 58. [Wendel, J. F. 2000.](./67.Wendel2000.pdf). Genome evolution in polyploids. Plant Molecular Biology 42: 225-249. 
 
 59. [Brawand, D., Wagner, C. E., Yang, I. L., et al. 2014](./68.BrawandEtAl2014.pdf) The genomic substrate for adaptive radiation in African cichlid fish. Nature 513:375-381. doi:10.1038/nature13726 
 
 
-### [Apr 30](./May_5/README.md) - Extinction  
+### [Apr 30] - Extinction  
 
 60. [Hampe, A., Petit, R. J. 2005](https://digital.csic.es/bitstream/10261/64087/1/j.1461-0248.2005.00739.x.pdf).Conserving biodiversity under climate change: the rear edge matter. Ecology Letters 8(5):461-467. 
 
 61. [Barnosky, A. D., Marzke, N., Tomiya, S., et al. 2011](./70.BarnoskyMatzkeTomiyaEtAl2011.pdf). Has the Earth's sixth mass extinction already arrived? Nature: 471:51-57. DOI: 10.1038/nature09678 
 
 
-### [May 2 Exam 2](./Exam2.md) - no class - due May 10  
+### [May 2 Exam 2] - no class - due May 10  
 
 ### May 6-10 Final Exam week
 
