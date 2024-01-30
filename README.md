@@ -41,9 +41,9 @@ Very optional commentary (read after you do your concept map):
 
 8. [Simpson, G. G. 1944](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and Mode in Evolution. Columbia Univ. Press, New York. (Pp. 197-217)  **map:Marguerite**
 
-### [Jan 30] - IV. Construction of Higher Taxa A. Evolutionary Taxonomy  
+### \[[Jan 30](./discussions/2024-01-30-higher-taxa/)\] - IV. Construction of Higher Taxa A. Evolutionary Taxonomy  
 
-9. ([pp.338-359) Simpson, G. G. 1953](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Major Features of Evolution. Columbia Univ. Press, New York. (Pp. 338-359)  **map:Marguerite**
+9. [Simpson, G. G. 1953](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Major Features of Evolution. Ch. 7: Higher Categories. Columbia Univ. Press, New York. (Pp. 338-359)  **map:Marguerite**
 
 10. [Mayr, E. 1987](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Ontological Status of Species: Scientific Progress and Philosophical Terminology. Biology and Philosophy 2(1987)145--166.  **map:Dani**
 
