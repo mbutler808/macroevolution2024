@@ -47,8 +47,8 @@ Very optional commentary (read after you do your concept map):
 
 ## Systematics I - Concepts of Higher Taxa
 
-### A. Evolutionary Taxonomy
 ### \[[Jan 30](./discussions/2024-01-30-higher-taxa/)\]   
+### A. Evolutionary Taxonomy
 
 9. [Simpson, G. G. 1953](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Major Features of Evolution. Ch. 7: Higher Categories. Columbia Univ. Press, New York. (Pp. 338-359)  **map:Marguerite**
 
@@ -94,37 +94,52 @@ Very optional commentary (read after you do your concept map):
 
 18. [Roth, V. L. 1991](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Homology and heirarchies: Problems solved and unresolved. _Journal of Evolutionary Biology_ 4:167-194.
 
+## Systematics III - Species Concepts 
 
-### [Feb 15] - Species Concepts/ Speciation  
+### [Feb 15]   
+
+### Essentialism, Typology, and the Biological Species Concept (already read)
+
+10. [Mayr, E. 1987](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Ontological Status of Species: Scientific Progress and Philosophical Terminology. Biology and Philosophy 2(1987)145--166.  **We already read this paper**
+
+### Recognition Species Concept
 
 32. [Paterson, H. E. H. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The recognition concept of species. Transvaal Museum Monograph 4:21-29. 
 
-33. [Cracraft, J. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Speciation and its ontology: The empirical consequences of alternative species concepts for understanding patterns and processes of differentiation. Pp. 28-59 in D. Otte and J. A. Endler (eds.) Speciation and its Consequences. Sinauer Assoc., Sunderland. 
+### Phylogenetic Species Concept 
 
+33. [Cracraft, J. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Speciation and its ontology: The empirical consequences of alternative species concepts for understanding patterns and processes of differentiation. Pp. 28-59 in D. Otte and J. A. Endler (eds.) Speciation and its Consequences. Sinauer Assoc., Sunderland. 
 
 ### [Feb 20]
 
-34. de Quieroz, K. 2007. Species concepts and species delimitation. *Systematic Biology*, Volume 56, Issue 6, December 2007, Pages 879–886, <https://doi.org/10.1080/10635150701701083>
+### Species Delimitation and Reconciliation of Species Concepts 
 
-10. [Mayr, E. 1987](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Ontological Status of Species: Scientific Progress and Philosophical Terminology. Biology and Philosophy 2(1987)145--166.  **We already read this paper**
+34. de Quieroz, K. 2007. Species concepts and species delimitation. *Systematic Biology*, Volume 56, Issue 6, December 2007, Pages 879–886, <https://doi.org/10.1080/10635150701701083>
 
 ### [Feb 22]
 
 EXAM 1 
 
+## Evolutionary Morphology 
 
-### [Feb 27] - V.C. Heterochrony and Ontogenetic Repatterning   
+### A. Ontogeny and Phylogeny I: Heterochrony and Ontogenetic Repatterning
+
+### [Feb 27]    
 
 19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. Nature Reviews Genetics 8:473-479.    
 
 20. [Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Size and shape in ontogeny and phylogeny. Paleobiology 5:296-317.     
 
-### [Feb 29] - V.D. Modularity and Genetic Architecture
+
+### B. Modularity and Genetic Architecture
+
+### [Feb 29]  
 
 21. [Raff, R. A. and G. A. Wray. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Heterochrony: Developmental mechanisms and evolutionary results. Journal of Evolutionary Biology 2:409-434.    
 
 22. [Wagner, G. P. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The significance of developmental constraints for phenotypic evolution by natural selection. Pp. 222-229 in G. de Jong (ed.) Population Genetics and Evolution, Springer-Verlag, Berlin.
 
+### C. Evolution of Genetic Architecture
 
 ### [Mar 5]
 
@@ -132,12 +147,14 @@ EXAM 1
 
 24. [Wagner, G. P., M. Pavlicev and J. M. Cheverud. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The road to modularity. Nature Reviews Genetics 8:921-931. 
 
-### [Mar 7] - V.E. Evo Devo and the Genetics of Adaptation  
+### D. Evo Devo and the Genetics of Adaptation  
+### [Mar 7]  
 
 25. [Carroll, S. B. 2008](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evo-devo and an expanding evolutionary synthesis: a genetic theory of morphological evolution. Cell 134:25-36. 
 
 26. [Beldade, P., Koops, K., and Brakefield, P. M. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Modularity, individuality, and evo-devo in butterfly wings. PNAS 99(22):14262-14267 https://doi.org/10.1073/pnas.222236199 
 
+### E. The Evolution of Evolvability  
 ### [Mar 12]
 
 27. [Wagner, G. P., Altenberg, L. 1996](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Perspective: Complex adaptations and the evolution of evolvability. Evolution 50(3):967-967.
@@ -148,7 +165,9 @@ Just FYI (not assigned, some other amazing papers):
 
 29. [Hoekstra, H. E., Coyne, J. A. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The locus of evolution: Evo Devo and the Genetics of Adaptation. Evolution 61(5):995-1016.  
 
-### [Mar 14] - Key Innovations  
+## Key Innovations 
+
+### [Mar 14]   
 
 30. [Galis, F. 2001](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Key innovations and radiations. Pp. 581-605 in G. P. Wagner (ed.) The Character Concept in Evolutionary Biology. Academic Press, San Diego. 
 
