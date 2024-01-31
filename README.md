@@ -66,7 +66,7 @@ Very optional commentary (read after you do your concept map):
 
 ### C. Cladistic Taxonomy 
 
-12. a. [de Queiroz, K. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Systematics and the Darwinian Revolution. _Philosophy of Science_ 55:238-259.  **map:Allison**
+12. a. [de Queiroz, K. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Systematics and the Darwinian Revolution. _Philosophy of Science_ 55:238-259.  **map:Marguerite**
 
 ### [Feb 6] 
 
@@ -88,11 +88,11 @@ Very optional commentary (read after you do your concept map):
 
 ### B. Transformational Homology  
 
-16. [Kaplan, D. R. 1984](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The concept of homology and its central role in the elucidation of plant systematic relationships. Pp. 51-70 in T. Duncan and T. F. Stuessy (eds.) _Cladistics: Perspectives on the Reconstruction of Evolutionary History_. Columbia Univ. Press, New York.   
+16. [Kaplan, D. R. 1984](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The concept of homology and its central role in the elucidation of plant systematic relationships. Pp. 51-70 in T. Duncan and T. F. Stuessy (eds.) _Cladistics: Perspectives on the Reconstruction of Evolutionary History_. Columbia Univ. Press, New York.   **map:Allison**
 
-17. [Wagner, G. P. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The origin of morphological characters and the biological basis of homology. _Evolution_ 43:1157-1171.    
+17. [Wagner, G. P. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The origin of morphological characters and the biological basis of homology. _Evolution_ 43:1157-1171.  **map:Dani**  
 
-18. [Roth, V. L. 1991](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Homology and heirarchies: Problems solved and unresolved. _Journal of Evolutionary Biology_ 4:167-194.
+18. [Roth, V. L. 1991](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Homology and heirarchies: Problems solved and unresolved. _Journal of Evolutionary Biology_ 4:167-194.  **map:Rai**
 
 ## Systematics III - Species Concepts 
 
@@ -104,17 +104,17 @@ Very optional commentary (read after you do your concept map):
 
 ### Recognition Species Concept
 
-32. [Paterson, H. E. H. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The recognition concept of species. Transvaal Museum Monograph 4:21-29. 
+32. [Paterson, H. E. H. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The recognition concept of species. Transvaal Museum Monograph 4:21-29. **map:Danny**
 
 ### Phylogenetic Species Concept 
 
-33. [Cracraft, J. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Speciation and its ontology: The empirical consequences of alternative species concepts for understanding patterns and processes of differentiation. Pp. 28-59 in D. Otte and J. A. Endler (eds.) Speciation and its Consequences. Sinauer Assoc., Sunderland. 
+33. [Cracraft, J. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Speciation and its ontology: The empirical consequences of alternative species concepts for understanding patterns and processes of differentiation. Pp. 28-59 in D. Otte and J. A. Endler (eds.) Speciation and its Consequences. Sinauer Assoc., Sunderland. **map:Dani**
 
 ### [Feb 20]
 
 ### Species Delimitation and Reconciliation of Species Concepts 
 
-34. de Quieroz, K. 2007. Species concepts and species delimitation. *Systematic Biology*, Volume 56, Issue 6, December 2007, Pages 879–886, <https://doi.org/10.1080/10635150701701083>
+34. de Quieroz, K. 2007. Species concepts and species delimitation. *Systematic Biology*, Volume 56, Issue 6, December 2007, Pages 879–886, <https://doi.org/10.1080/10635150701701083>. **map:Marguerite**
 
 ### [Feb 22]
 
@@ -126,9 +126,9 @@ EXAM 1
 
 ### [Feb 27]    
 
-19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. Nature Reviews Genetics 8:473-479.    
+19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. Nature Reviews Genetics 8:473-479.    **map:Rai**
 
-20. [Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Size and shape in ontogeny and phylogeny. Paleobiology 5:296-317.     
+20. [Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Size and shape in ontogeny and phylogeny. Paleobiology 5:296-317.   **map:Allison**  
 
 
 ### B. Modularity and Genetic Architecture
