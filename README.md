@@ -17,13 +17,15 @@
 Very optional commentary (read after you do your concept map):
 [Racine, Valerie 2014](https://embryo.asu.edu/items/172791) "Evolution and Tinkering" (1977), by Francois Jacob". Embryo Project Encyclopedia ( 2014-10-24 ). ISSN: 1940-5030 https://hdl.handle.net/10776/8227
 
-### \[[Jan 17](./discussions/2024-01-17-darwinism/2-3.mayr.md)\] - I. Darwinism and Macroevolution  
+## I. Darwinism and Macroevolution
+
+### \[[Jan 17](./discussions/2024-01-17-darwinism/2-3.mayr.md)\] - Darwinism and Macroevolution  
 
 2. [Mayr, E. 1982](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). *The Growth of Biological Thought*. Harvard Univ. Press. (Pp. 21-78)  **map:Rai**
 
 3. [Mayr, E. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Darwin's five theories of evolution. Pp. 755-772 in D. Kohn (ed.) *The Darwinian Heritage*. Princeton Univ. Press, Princeton.  **map:Dani**
 
-### \[[Jan 18](./discussions/2024-01-18-darwin/4.darwin.md)\] - II. Darwinism  
+### \[[Jan 18](./discussions/2024-01-18-darwin/4.darwin.md)\] - Darwin  
 
 4. [Darwin, C. 1859](https://www.biodiversitylibrary.org/item/135954#page/10/mode/2up). *On the Origin of Species*. First Edition. John Murray, London. (Chapters 1-5; pgs. 7-170)  **map:Danny**
 
@@ -35,69 +37,108 @@ Very optional commentary (read after you do your concept map):
 6. [Darwin, C. 1871](https://biodiversitylibrary.org/page/20266196). *The Descent of Man, and Selection in Relation to Sex*. John Murray, London. (Chapter 21; pgs. 368-387)  **map:Danny**
 
 
-### \[[Jan 25](./discussions/2024-01-25-tempo-mode/7-8.tempo-mode.md)\] - III. Tempo and Mode in Evolution  
+## Tempo and Mode in Evolution
+
+### \[[Jan 25](./discussions/2024-01-25-tempo-mode/7-8.tempo-mode.md)\]  
 
 7. [Gould, S. J. 1995](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and mode in the macroevolutionary reconstruction of Darwinism. Pp. 125-144 in W. M. Fitch and F. J. Ayala (eds.) Tempo and Mode in Evolution: Genetics and Paleontology 50 Years after Simpson. National Academy Press, Washington.  **map:Marguerite**
 
 8. [Simpson, G. G. 1944](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Tempo and Mode in Evolution. Columbia Univ. Press, New York. (Pp. 197-217)  **map:Marguerite**
 
-### \[[Jan 30](./discussions/2024-01-30-higher-taxa/)\] - IV. Construction of Higher Taxa A. Evolutionary Taxonomy  
+## Systematics I - Concepts of Higher Taxa
+
+### A. Evolutionary Taxonomy
+### \[[Jan 30](./discussions/2024-01-30-higher-taxa/)\]   
 
 9. [Simpson, G. G. 1953](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Major Features of Evolution. Ch. 7: Higher Categories. Columbia Univ. Press, New York. (Pp. 338-359)  **map:Marguerite**
 
 10. [Mayr, E. 1987](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Ontological Status of Species: Scientific Progress and Philosophical Terminology. Biology and Philosophy 2(1987)145--166.  **map:Dani**
 
+(10). [Mayr, E. (1982)](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) - excerpt from *The Growth of Biological Thought* Harvard Univ. Press, New York. Pp. 614-616; 233-235. 
+
 11. [Miller, A. H. 1949](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Some ecologic and morphologic considerations in the evolution of higher taxonomic categories. Pp. 84-88 in E. Mayr and E. Schuz (eds.) Ornithologie als Biologische Wissenschaft. Carl Winter/Universitätsverlag, Heidelberg.  **map:Rai**
 
-### [Feb 1] - IV.B. Phenetic versus Cladistic Taxonomy  
+### \[[Feb 1](./discussions/2024-02-01-phenetic-taxonomy/)\]
 
-12. [Sneath, P. H. A. and R. R. Sokal. 1973](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Numerical Taxonomy. W. H. Freeman and Co., San Francisco. (Pp. 5, 9-10, 27-30).    
+### B. Phenetic Taxonomy  
 
-13. [Eldredge, N. and J. Cracraft. 1980](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Phylogenetic Patterns and the Evolutionary Process. Columbia Univ. Press, New York.(Pp. 147-162, 165-171, 175-185).   
+12. [Sneath, P. H. A. and R. R. Sokal. 1973](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). _Numerical Taxonomy_. W. H. Freeman and Co., San Francisco. (excerpts: Pp. 5, 9-10, 27-30, 37-40, 55-67). **map:Danny**
+
+### C. Cladistic Taxonomy 
+
+12. a. [de Queiroz, K. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Systematics and the Darwinian Revolution. _Philosophy of Science_ 55:238-259.  **map:Allison**
+
+### [Feb 6] 
+
+13. [Eldredge, N. and J. Cracraft. 1980](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). _Phylogenetic Patterns and the Evolutionary Process_. Columbia Univ. Press, New York.(Pp. 147-162, 165-171, 175-185).  **map:Dani** 
+
+35. [Felsenstein, J. 2004. Chapter 10](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). A digression on history and philosophy. Pp. 123-146 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  **map:Marguerite**
+
+## Systematics II - Homology and Phylogeny 
+
+### [Feb 8] 
+
+### A. Taxic Homology  
+
+14. [Patterson, C. 1982](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Morphological characters and homology. Pp. 21-74 in K. A. Joysey and A. E. Friday (eds.) Problems of Phylogenetic Reconstruction. Academic Press, New York.   **map:Rai**
+
+15. [de Queiroz, K. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The ontogenetic method for determining character polarity and its relevance to phylogenetic systematics. Systematic Zoology 34:280-299.  **map:Danny**  
+
+### [Feb 13] 
+
+### B. Transformational Homology  
+
+16. [Kaplan, D. R. 1984](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The concept of homology and its central role in the elucidation of plant systematic relationships. Pp. 51-70 in T. Duncan and T. F. Stuessy (eds.) _Cladistics: Perspectives on the Reconstruction of Evolutionary History_. Columbia Univ. Press, New York.   
+
+17. [Wagner, G. P. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The origin of morphological characters and the biological basis of homology. _Evolution_ 43:1157-1171.    
+
+18. [Roth, V. L. 1991](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Homology and heirarchies: Problems solved and unresolved. _Journal of Evolutionary Biology_ 4:167-194.
 
 
+### [Feb 15] - Species Concepts/ Speciation  
 
-### [Feb 6] - V. Evolutionary Morphology and Homology A. Taxic Homology  
+32. [Paterson, H. E. H. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The recognition concept of species. Transvaal Museum Monograph 4:21-29. 
 
-14. [Patterson, C. 1982](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Morphological characters and homology. Pp. 21-74 in K. A. Joysey and A. E. Friday (eds.) Problems of Phylogenetic Reconstruction. Academic Press, New York.   
-
-15. [de Queiroz, K. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The ontogenetic method for determining character polarity and its relevance to phylogenetic systematics. Systematic Zoology 34:280-299.    
-
-### [Feb 8] - V.B. Transformational Homology  
-
-16. [Kaplan, D. R. 1984](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The concept of homology and its central role in the elucidation of plant systematic relationships. Pp. 51-70 in T. Duncan and T. F. Stuessy (eds.) Cladistics: Perspectives on the Reconstruction of Evolutionary History. Columbia Univ. Press, New York.   
-
-17. [Wagner, G. P. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The origin of morphological characters and the biological basis of homology. Evolution 43:1157-1171.    
-
-18. [Roth, V. L. 1991](). Homology and heirarchies: Problems solved and unresolved.
+33. [Cracraft, J. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Speciation and its ontology: The empirical consequences of alternative species concepts for understanding patterns and processes of differentiation. Pp. 28-59 in D. Otte and J. A. Endler (eds.) Speciation and its Consequences. Sinauer Assoc., Sunderland. 
 
 
-### [Feb 13] - V.C. Heterochrony and Ontogenetic Repatterning   
+### [Feb 20]
+
+34. de Quieroz, K. 2007. Species concepts and species delimitation. *Systematic Biology*, Volume 56, Issue 6, December 2007, Pages 879–886, <https://doi.org/10.1080/10635150701701083>
+
+10. [Mayr, E. 1987](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Ontological Status of Species: Scientific Progress and Philosophical Terminology. Biology and Philosophy 2(1987)145--166.  **We already read this paper**
+
+### [Feb 22]
+
+EXAM 1 
+
+
+### [Feb 27] - V.C. Heterochrony and Ontogenetic Repatterning   
 
 19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. Nature Reviews Genetics 8:473-479.    
 
 20. [Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Size and shape in ontogeny and phylogeny. Paleobiology 5:296-317.     
 
-### [Feb 15] - V.D. Modularity and Genetic Architecture
+### [Feb 29] - V.D. Modularity and Genetic Architecture
 
 21. [Raff, R. A. and G. A. Wray. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Heterochrony: Developmental mechanisms and evolutionary results. Journal of Evolutionary Biology 2:409-434.    
 
 22. [Wagner, G. P. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The significance of developmental constraints for phenotypic evolution by natural selection. Pp. 222-229 in G. de Jong (ed.) Population Genetics and Evolution, Springer-Verlag, Berlin.
 
 
-### [Feb 20]
+### [Mar 5]
 
 23. [Hansen, T. F. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evolution of genetic architecture. Annual Review of Ecology, Evolution and Systematics 37:123-157. 
 
 24. [Wagner, G. P., M. Pavlicev and J. M. Cheverud. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The road to modularity. Nature Reviews Genetics 8:921-931. 
 
-### [Feb 22] - V.E. Evo Devo and the Genetics of Adaptation  
+### [Mar 7] - V.E. Evo Devo and the Genetics of Adaptation  
 
 25. [Carroll, S. B. 2008](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evo-devo and an expanding evolutionary synthesis: a genetic theory of morphological evolution. Cell 134:25-36. 
 
 26. [Beldade, P., Koops, K., and Brakefield, P. M. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Modularity, individuality, and evo-devo in butterfly wings. PNAS 99(22):14262-14267 https://doi.org/10.1073/pnas.222236199 
 
-### [Feb 27]
+### [Mar 12]
 
 27. [Wagner, G. P., Altenberg, L. 1996](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Perspective: Complex adaptations and the evolution of evolvability. Evolution 50(3):967-967.
 
@@ -107,7 +148,7 @@ Just FYI (not assigned, some other amazing papers):
 
 29. [Hoekstra, H. E., Coyne, J. A. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The locus of evolution: Evo Devo and the Genetics of Adaptation. Evolution 61(5):995-1016.  
 
-### [Feb 29] - Key Innovations  
+### [Mar 14] - Key Innovations  
 
 30. [Galis, F. 2001](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Key innovations and radiations. Pp. 581-605 in G. P. Wagner (ed.) The Character Concept in Evolutionary Biology. Academic Press, San Diego. 
 
@@ -116,21 +157,13 @@ Just FYI (not assigned, some other amazing papers):
 ### [Wicked-good critiques of the Adaptationist program: a brief digression](./Adaptationist.md)
 
 
-### [Mar 5] - Species Concepts/ Speciation  
+### Mar 18 - 22 **Spring Break**  
 
-32. [Paterson, H. E. H. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The recognition concept of species. Transvaal Museum Monograph 4:21-29. 
+### Exam II Due April 4 ?
 
-33. [Cracraft, J. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Speciation and its ontology: The empirical consequences of alternative species concepts for understanding patterns and processes of differentiation. Pp. 28-59 in D. Otte and J. A. Endler (eds.) Speciation and its Consequences. Sinauer Assoc., Sunderland. 
+### Mar 26  Kuhio Day Holiday  
 
-
-### [Mar 7]
-
-34. de Quieroz, K. 2007. Species concepts and species delimitation. *Systematic Biology*, Volume 56, Issue 6, December 2007, Pages 879–886, <https://doi.org/10.1080/10635150701701083>
-
-35. [Felsenstein, J. 2004. Chapter 10](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). A digression on history and philosophy. Pp. 123-146 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
-
-
-### [Mar 12] - Phylogenetic models
+### [Mar 28] - Phylogenetic models
 
 36. [Felsenstein, J. 2004. Chapter 13](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Models of DNA evolution. Pp. 196-221 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
 
@@ -141,7 +174,7 @@ FYI:
 38. Edwards, Cavalli-Sforza 1964. Reconstruction of evolutionary trees. pp. 67-76 in PHenetic and phylogenetic classification, V. H. Heywood and J. McNeill (eds.) Systematics Association Publ. No. 6, London.  
 
 
-### [Mar 14] - Bayesian methods and dating  
+### [Apr 2] - Bayesian methods and dating  
 
 39. [Felsenstein, J. 2004. Chapter 16](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Likelihood Methods. Pp. 248-274 in Inferring Phylogenies. Sinauer Assoc., Sunderland.    
 
@@ -152,21 +185,11 @@ FYI:
 41. [Swofford, D. L., Olsen, G. J, Waddell, P. J., and Hillis, D. M. 1996](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Chapter 11: Phylogenetic inference. pp. 407-514 in *Molecular Systematics*, 2nd. edition.Ed by: Hillis, D. M., Moritz, C., and Mable, B. K. Sinauer.  
 
 
-### Mar 18 - 22 **Spring Break**  
-
-### Mar 26  Kuhio Day Holiday  
-
-### Mar 28  Exam I  - Due April 4
-
-
-### [Apr 2] - Bayesian methods, Molecular approaches to Adaptation  
+### [Apr 4] - Bayesian methods, Molecular approaches to Adaptation  
 
 42. Maddison, W. P. 1997. Gene trees in species trees. Systematic Biology 46(3):523-536  
 
 43. [Drummond, A. J., Nicholls, G. K., Rodrigo, A. G., and Solomon, W. 2002](./56.DrummondNichollsRodrigoSolomon2002.pdf) Estimating Mutation parameters, population history and geneaology simultaneously from temporally spaced sequence data. Genetics 161:1307-1320.    
-
-### [Apr 4]
-
 
 44. [Yang, Z., Nielsen, R. 2002](./57.YangNielsen2002.pdf) Substitution models for detecting molecular adaptation at individual sites along specific lineages. Mol. Biol. Evol. 19(6):908-917.   
 
@@ -224,7 +247,7 @@ FYI:
 61. [Barnosky, A. D., Marzke, N., Tomiya, S., et al. 2011](./70.BarnoskyMatzkeTomiyaEtAl2011.pdf). Has the Earth's sixth mass extinction already arrived? Nature: 471:51-57. DOI: 10.1038/nature09678 
 
 
-### [May 2 Exam 2] - no class - due May 10  
+### [May 2 Exam 3] - no class - due May 10  
 
 ### May 6-10 Final Exam week
 
