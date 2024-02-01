@@ -36,6 +36,6 @@ A strong statement of the philosophical foundations of phylogenetic systematics 
 
 ### de Queiroz 1988 Cladistic Taxonomy
 
-<img width="700" src="./deQuieroz1988_conceptmap_MB.png" >
+<img width="700" src="./deQueiroz1988_conceptmap_MB.png" >
 
 
