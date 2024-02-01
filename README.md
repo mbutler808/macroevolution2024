@@ -100,15 +100,15 @@ Very optional commentary (read after you do your concept map):
 
 ### Essentialism, Typology, and the Biological Species Concept (already read)
 
-10. [Mayr, E. 1987](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Ontological Status of Species: Scientific Progress and Philosophical Terminology. Biology and Philosophy 2(1987)145--166.  **We already read this paper**
+10. [Mayr, E. 1987](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The Ontological Status of Species: Scientific Progress and Philosophical Terminology. _Biology and Philosophy_ 2(1987)145--166.  **We already read this paper**
 
 ### Recognition Species Concept
 
-32. [Paterson, H. E. H. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The recognition concept of species. Transvaal Museum Monograph 4:21-29. **map:Danny**
+32. [Paterson, H. E. H. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The recognition concept of species. _Transvaal Museum Monograph_ 4:21-29. **map:Danny**
 
 ### Phylogenetic Species Concept 
 
-33. [Cracraft, J. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Speciation and its ontology: The empirical consequences of alternative species concepts for understanding patterns and processes of differentiation. Pp. 28-59 in D. Otte and J. A. Endler (eds.) Speciation and its Consequences. Sinauer Assoc., Sunderland. **map:Dani**
+33. [Cracraft, J. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Speciation and its ontology: The empirical consequences of alternative species concepts for understanding patterns and processes of differentiation. Pp. 28-59 in D. Otte and J. A. Endler (eds.) _Speciation and its Consequences_. Sinauer Assoc., Sunderland. **map:Dani**
 
 ### [Feb 20]
 
@@ -126,9 +126,9 @@ EXAM 1
 
 ### [Feb 27]    
 
-19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. Nature Reviews Genetics 8:473-479.    **map:Rai**
+19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. _Nature Reviews Genetics_ 8:473-479.    **map:Rai**
 
-20. [Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Size and shape in ontogeny and phylogeny. Paleobiology 5:296-317.   **map:Allison**  
+20. [Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Size and shape in ontogeny and phylogeny. _Paleobiology_ 5:296-317.   **map:Allison**  
 
 
 ### B. Modularity and Genetic Architecture

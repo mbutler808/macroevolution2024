@@ -4,6 +4,12 @@
 
 The [evolution of the jaw](https://www.mun.ca/biology/scarr/QA_vs_DS_jaw.html) in relation to the transition from reptiles to mammals.
 
+### Blooms Taxonomy
+
+A different kind of taxonomy!
+
+<img width="700" src="./BloomsTaxonomy.png" >
+
 ### B. Phenetic Taxonomy
 
 Annotations by [Allan Larson](https://biology.wustl.edu/people/allan-larson)  
@@ -25,11 +31,11 @@ A strong statement of the philosophical foundations of phylogenetic systematics 
 
 ### Sneath and Sokal 1973 Numerical Taxonomy
 
-<img width="700" src="" >
+<img width="700" src="./SneathSokal1973_conceptmap_DC.jpg" >
 
 
 ### de Queiroz 1988 Cladistic Taxonomy
 
-<img width="700" src="" >
+<img width="700" src="./deQuieroz1988_conceptmap_MB.png" >
 
 
