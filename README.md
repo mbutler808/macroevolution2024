@@ -72,7 +72,7 @@ Very optional commentary (read after you do your concept map):
 
 13. [Eldredge, N. and J. Cracraft. 1980](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). _Phylogenetic Patterns and the Evolutionary Process_. Columbia Univ. Press, New York.(Pp. 147-162, 165-171, 175-185).  **map:Dani** 
 
-35. [Felsenstein, J. 2004. Chapter 10](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). A digression on history and philosophy. Pp. 123-146 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  **map:Marguerite**
+35. [Felsenstein, J. 2004. Chapter 10](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). A digression on history and philosophy. Pp. 123-146 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  **questions:all**
 
 ## Systematics II - Homology and Phylogeny 
 
