@@ -68,7 +68,7 @@ Very optional commentary (read after you do your concept map):
 
 12. a. [de Queiroz, K. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Systematics and the Darwinian Revolution. _Philosophy of Science_ 55:238-259.  **map:Marguerite**
 
-### [Feb 6] 
+### \[[Feb 6](./discussions/2024-02-06-cladistic-taxonomy/)\] 
 
 13. [Eldredge, N. and J. Cracraft. 1980](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). _Phylogenetic Patterns and the Evolutionary Process_. Columbia Univ. Press, New York.(Pp. 147-162, 165-171, 175-185).  **map:Dani** 
 
@@ -76,7 +76,7 @@ Very optional commentary (read after you do your concept map):
 
 ## Systematics II - Homology and Phylogeny 
 
-### [Feb 8] 
+### \[[Feb 8](./discussions/2024-02-08-taxic-homology/)\] 
 
 ### A. Taxic Homology  
 
