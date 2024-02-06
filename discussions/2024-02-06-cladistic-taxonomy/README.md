@@ -28,12 +28,14 @@ Annotations by [Allan Larson](https://biology.wustl.edu/people/allan-larson)
 Eldredge aand Cracraftʻs Phylogenetic Patterns and the Evolutionary Process was an influential book that aimed to unite systematics with evolutionary theory. They use extensive paleontological evidence to support their argument, and compare and contrast phenetics, cladistics, and phylogenetics. We are reading their most controversional section on biological classification.  Also pay attention to their treatment of falsifiability and the "not-A" problem. 
 
 
-Concept Map by Dani Bartz
+Concept Maps by Dani Bartz
 
-<img width="700" src="./" >
+<img width="700" src="./EdlredgeCracraft1980_db.png" >
+<img width="700" src="./EdlredgeCracraft1980_db_mini.png" >
  
 ### Questions:
-* 
+* Why are not-A groups are argued to be "not natural"? How do they affect the structure of Linnaean Hierarchy? Is the Linnean Heirarchy then more or less useful? 
+* What were Darwinʻs thoughts on natural classification? How do his ideas relate to descent with modification, identifying shared derived similarities (synapomorphies), general similarity, and shared primitive similarities (symplesiomorphies)? Based on what evidence? How would Darwinʻs pattern of groups within groups translate (or not) into a Linnaean Hierarchy?
 
 ### History of Phylogenetic Methods
 
