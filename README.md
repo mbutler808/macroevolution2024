@@ -84,7 +84,7 @@ Very optional commentary (read after you do your concept map):
 
 15. [de Queiroz, K. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The ontogenetic method for determining character polarity and its relevance to phylogenetic systematics. Systematic Zoology 34:280-299.  **map:Danny**  
 
-### [Feb 13] 
+### \[[Feb 13](./discussions/2024-02-13-transformational-homology)\] 
 
 ### B. Transformational Homology  
 
