@@ -116,9 +116,9 @@ Very optional commentary (read after you do your concept map):
 
 34. de Quieroz, K. 2007. Species concepts and species delimitation. *Systematic Biology*, Volume 56, Issue 6, December 2007, Pages 879–886, <https://doi.org/10.1080/10635150701701083>. **map:Marguerite**
 
-### [Feb 22]
+### [Feb 22] 
 
-[EXAM 1](./Exam1.md) 
+[EXAM 1](./exam1.md) No class, exam due at 5pm to me in EDM 316 or make nice scan and email. 
 
 ## Evolutionary Morphology 
 
