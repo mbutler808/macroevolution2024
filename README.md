@@ -118,7 +118,7 @@ Very optional commentary (read after you do your concept map):
 
 ### [Feb 22] 
 
-[EXAM 1](./exam1.md) No class, exam due at 5pm to me in EDM 316 or make nice scan and email. 
+[EXAM 1](exam1.md) No class, exam due at 5pm to me in EDM 316 or make nice scan and email. 
 
 ## Evolutionary Morphology 
 
