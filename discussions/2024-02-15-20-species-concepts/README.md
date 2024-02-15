@@ -14,7 +14,7 @@ The philosophical question of whether species are classes, individuals or popula
 
 #### Concept Map by Dani Bartz  
 
-<img width="700" src="Mayr1987_conceptmap_db.jpeg" >
+<img width="700" src="Mayr1987_conceptmap_db.png" >
 
 ### Recognition Species Concept
 

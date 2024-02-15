@@ -48,7 +48,7 @@ My favorite paper on the hierarchical expansion of the concept of homology. It s
 #### Questions:  
 
 1. How does the biological homology concept differ from the "historical" homology concept? 
-2. What is an epigenetic trap? How is it recongized? What are the causes of developmental constraint? Be sure to explain generative rules of pattern formation and how that idea differs from ontogenetic networks. Do these differ from the "burden" concept of Reidel 1978?
+2. What is an epigenetic trap? How is it recognized? What are the causes of developmental constraint? Be sure to explain generative rules of pattern formation and how that idea differs from ontogenetic networks. Do these differ from the "burden" concept of Reidel 1978?
 3. What is the role of individuality in Wagner 1989 vs. Roth 1991? 
 4. What are the differences beteween the following types of relationshps?  (a) feedback loops, (b) many-to-one, and (c) one-to-many? 
 
