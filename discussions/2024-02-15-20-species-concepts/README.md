@@ -42,6 +42,11 @@ A concept designed to be optimal for reconstructing the phylogenetic history of 
 
 <img width="700" src="Cracraft1989_conceptmap_db.jpg" >
 
+#### Questions:
+1. Compare the BSC vs. the phylogenetic species comcept with regard to testability.  What are problems with a reliance on reproductive isolation? Do you believe the PSC is superior? In what ways?
+2. Contrast the uses and usefulness of the two species concepts.   
+
+
 ### [Feb 20]
 
 ### Species Delimitation and Reconciliation of Species Concepts 
@@ -56,7 +61,7 @@ An ambitious attempt to place all of the preceding concepts into a common concep
 
 
 #### Questions:
-1.
+1. 
 
 ### Additional Concepts (just FYI, we are not reading these papers)
 
