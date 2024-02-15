@@ -96,7 +96,7 @@ Very optional commentary (read after you do your concept map):
 
 ## Systematics III - Species Concepts 
 
-### [Feb 15]   
+### \[[Feb 15](./discussions/2024-02-15-20-species-concepts)\]   
 
 ### Essentialism, Typology, and the Biological Species Concept (already read)
 
@@ -110,7 +110,7 @@ Very optional commentary (read after you do your concept map):
 
 33. [Cracraft, J. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Speciation and its ontology: The empirical consequences of alternative species concepts for understanding patterns and processes of differentiation. Pp. 28-59 in D. Otte and J. A. Endler (eds.) _Speciation and its Consequences_. Sinauer Assoc., Sunderland. **map:Dani**
 
-### [Feb 20]
+### \[[Feb 20](./discussions/2024-02-15-20-species-concepts)\]   
 
 ### Species Delimitation and Reconciliation of Species Concepts 
 
@@ -118,7 +118,7 @@ Very optional commentary (read after you do your concept map):
 
 ### [Feb 22] 
 
-[EXAM 1](exam1.md) No class, exam due at 5pm to me in EDM 316 or make nice scan and email. 
+[EXAM 1](./exams/exam1) No class, exam due at 5pm to me in EDM 316 or make nice scan and email. 
 
 ## Evolutionary Morphology 
 
