@@ -24,7 +24,13 @@ A critique of the biological species concept emphasizing the species as a philos
 
 #### Concept Map by Danny Cusimano  
 
-<img width="700" src="Paterson1985_conceptmap_dc.jpeg" >
+<img width="700" src="Paterson1985_conceptmap_dc.jpg" >
+
+####Questions 
+
+1. Does the Recognition Concept solve the question of Isolating Mechanisms and therefor fit within the scope of the Isolation Concept? Besides species delineations based solely on allopatry (and therefor still sharing a fertilization system), where does this concept conflict with the BSC?
+
+2. Sympatric speciation is not discussed here. Does Paterson believe that speciation is only possible in allopatry? 
 
 ### Phylogenetic Species Concept 
 
@@ -34,7 +40,7 @@ A concept designed to be optimal for reconstructing the phylogenetic history of 
 
 #### Concept Map by Dani Bartz  
 
-<img width="700" src="Cracraft1989_conceptmap_db.jpeg" >
+<img width="700" src="Cracraft1989_conceptmap_db.jpg" >
 
 ### [Feb 20]
 
