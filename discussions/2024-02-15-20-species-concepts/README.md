@@ -61,7 +61,9 @@ An ambitious attempt to place all of the preceding concepts into a common concep
 
 
 #### Questions:
-1. 
+1. Why does de Quieroz differentiate between metapopulations, species, separately evolving lineages, and "segments" of such lineages?
+2. Do we expect the different species concepts to disagree on species delimitation only in the "disagreement zone" (during the process of speciation), or could they disagree after say millions of years of separation? Is this a problem?
+3. Explain the reasoning behind no single secondary defining property is required, and rejection of no single property does not refute species status. Are there situations where no property would provide support? 
 
 ### Additional Concepts (just FYI, we are not reading these papers)
 
