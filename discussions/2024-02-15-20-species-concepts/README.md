@@ -57,7 +57,7 @@ An ambitious attempt to place all of the preceding concepts into a common concep
 
 #### Concept Map by Marguerite Butler  
 
-<img width="700" src="deQuieroz2007_conceptmap_mb.jpeg" >
+<img width="700" src="deQuieroz2007_conceptmap_mb.png" >
 
 
 #### Questions:
@@ -69,7 +69,7 @@ An ambitious attempt to place all of the preceding concepts into a common concep
 
 Wiley, E. O. 1981. Phylogenetics. Wiley & sons, New York. (Pp. 24-34)
 
-An update of Simpson's evolutionary species concept, which explicitly defines species as having a temporal dimension. It is often called a "lineage concept" of species to distinguish it from concepts that consider species only at a single moment in time (biological and recognition concepts, for example), although this distinction is debated (see de Quieroz 1999 below).
+An update of Simpson's evolutionary species concept, which explicitly defines species as having a temporal dimension. It is often called a "lineage concept" of species to distinguish it from concepts that consider species only at a single moment in time (biological and recognition concepts, for example), although this distinction is debated.
 
 #### Cohesion Species Concept
 
