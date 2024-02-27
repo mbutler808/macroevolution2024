@@ -9,6 +9,13 @@ Annotations by [Allan Larson](https://biology.wustl.edu/people/allan-larson)
 *Axylotyl ganz* or "Mexican Walking Fish" From [LoKiLeCh](https://de.wikipedia.org/wiki/Benutzer:LoKiLeCh), Wikipedia Commons  
 <img width="700" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Axolotl_ganz.jpg" >
 
+_Necturus maculosus_ or "common mud puppy"
+<a title="Brian Gratwicke, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Necturus_maculosus_147397.jpg"><img width="512" alt="Necturus maculosus 147397" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Necturus_maculosus_147397.jpg/512px-Necturus_maculosus_147397.jpg"></a>
+
+_Cryptobranchus alleganiensis_ or "hellbender"
+<a title="Brian Gratwicke, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hellbender_Cryptobranchus_alleganiensis.jpg"><img width="512" alt="Hellbender Cryptobranchus alleganiensis" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hellbender_Cryptobranchus_alleganiensis.jpg/512px-Hellbender_Cryptobranchus_alleganiensis.jpg"></a>
+
+<a title="Ns4571a, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hellbender_Salamander.JPG"><img width="512" alt="Hellbender Salamander" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hellbender_Salamander.JPG/512px-Hellbender_Salamander.JPG"></a>
 
 19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. _Nature Reviews Genetics_ 8:473-479.    
 
