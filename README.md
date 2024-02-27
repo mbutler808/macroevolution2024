@@ -124,7 +124,7 @@ Very optional commentary (read after you do your concept map):
 
 ### A. Ontogeny and Phylogeny I: Heterochrony and Ontogenetic Repatterning
 
-### [Feb 27]    
+### [Feb 27](./discussions/2024-02-27-heterochrony)\]    
 
 19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. _Nature Reviews Genetics_ 8:473-479.    **map:Rai**
 
@@ -135,31 +135,31 @@ Very optional commentary (read after you do your concept map):
 
 ### [Feb 29]  
 
-21. [Raff, R. A. and G. A. Wray. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Heterochrony: Developmental mechanisms and evolutionary results. Journal of Evolutionary Biology 2:409-434.    
+21. [Raff, R. A. and G. A. Wray. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Heterochrony: Developmental mechanisms and evolutionary results. Journal of Evolutionary Biology 2:409-434.  **map:Danny**   
 
-22. [Wagner, G. P. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The significance of developmental constraints for phenotypic evolution by natural selection. Pp. 222-229 in G. de Jong (ed.) Population Genetics and Evolution, Springer-Verlag, Berlin.
+22. [Wagner, G. P. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The significance of developmental constraints for phenotypic evolution by natural selection. Pp. 222-229 in G. de Jong (ed.) Population Genetics and Evolution, Springer-Verlag, Berlin.  **map:Dani**
 
 ### C. Evolution of Genetic Architecture
 
 ### [Mar 5]
 
-23. [Hansen, T. F. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evolution of genetic architecture. Annual Review of Ecology, Evolution and Systematics 37:123-157. 
+23. [Hansen, T. F. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evolution of genetic architecture. Annual Review of Ecology, Evolution and Systematics 37:123-157.  **map:Rai**
 
-24. [Wagner, G. P., M. Pavlicev and J. M. Cheverud. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The road to modularity. Nature Reviews Genetics 8:921-931. 
+24. [Wagner, G. P., M. Pavlicev and J. M. Cheverud. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The road to modularity. Nature Reviews Genetics 8:921-931. **map:Allison**
 
 ### D. Evo Devo and the Genetics of Adaptation  
 ### [Mar 7]  
 
-25. [Carroll, S. B. 2008](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evo-devo and an expanding evolutionary synthesis: a genetic theory of morphological evolution. Cell 134:25-36. 
+25. [Carroll, S. B. 2008](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evo-devo and an expanding evolutionary synthesis: a genetic theory of morphological evolution. Cell 134:25-36.  **map:Danny**
 
-26. [Beldade, P., Koops, K., and Brakefield, P. M. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Modularity, individuality, and evo-devo in butterfly wings. PNAS 99(22):14262-14267 https://doi.org/10.1073/pnas.222236199 
+26. [Beldade, P., Koops, K., and Brakefield, P. M. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Modularity, individuality, and evo-devo in butterfly wings. PNAS 99(22):14262-14267 https://doi.org/10.1073/pnas.222236199   **map:Dani**
 
 ### E. The Evolution of Evolvability  
 ### [Mar 12]
 
-27. [Wagner, G. P., Altenberg, L. 1996](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Perspective: Complex adaptations and the evolution of evolvability. Evolution 50(3):967-967.
+27. [Wagner, G. P., Altenberg, L. 1996](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Perspective: Complex adaptations and the evolution of evolvability. Evolution 50(3):967-967.  **map:Rai** 
 
-28. [Mallarino, R., Grant, P. R., Grant, B. R., Herrel, A., Kuo, W. P., Abzhanov, A. 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Two developmental modules establish 3D beak-shape variation in Darwinʻs finches. PNAS 108(10):4057–4062. https://doi.org/10.1073/pnas.1011480108
+28. [Mallarino, R., Grant, P. R., Grant, B. R., Herrel, A., Kuo, W. P., Abzhanov, A. 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Two developmental modules establish 3D beak-shape variation in Darwinʻs finches. PNAS 108(10):4057–4062. https://doi.org/10.1073/pnas.1011480108  **map:Allison**
 
 Just FYI (not assigned, some other amazing papers):  
 
@@ -169,9 +169,9 @@ Just FYI (not assigned, some other amazing papers):
 
 ### [Mar 14]   
 
-30. [Galis, F. 2001](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Key innovations and radiations. Pp. 581-605 in G. P. Wagner (ed.) The Character Concept in Evolutionary Biology. Academic Press, San Diego. 
+30. [Galis, F. 2001](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Key innovations and radiations. Pp. 581-605 in G. P. Wagner (ed.) The Character Concept in Evolutionary Biology. Academic Press, San Diego.  **map:Danny**
 
-31. [Jablonski, D. 2005](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Evolutionary innovations in the fossil record: The intersection of ecology, development and macroevolution. Journal of Experimental Zoology 304B:504-519.  
+31. [Jablonski, D. 2005](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Evolutionary innovations in the fossil record: The intersection of ecology, development and macroevolution. Journal of Experimental Zoology 304B:504-519.  **map:Dani**
 
 ### [Wicked-good critiques of the Adaptationist program: a brief digression](./Adaptationist.md)
 
