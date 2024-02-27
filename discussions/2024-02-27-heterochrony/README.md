@@ -35,7 +35,7 @@ Exploration of the hierarchical structure of homology, including the relationshi
 
 A classic paper giving formal definitions of the standard patterns and processes of heterochrony, especially as relevant to changes occurring relatively late in ontogeny (retroactively termed "de Beerian heterochrony" by many authors). This is the standard scheme against which others are compared. 
 
-They argue major changes in form can be understood by changes ("perturbations") in ontogenetic trajectory, focusing on the parameters: timing of the start and stop in developent, and changes to growth rate to produce any change in shape. Developmental events can be related to time or size. 
+Pay attention to how they propose a scheme to understand major changes by changes ("perturbations") in ontogenetic trajectory, focusing on the parameters: timing of the start and stop in developent, and changes to growth rate to produce any change in shape. Developmental events can be related to time or size. 
 
 
 __Heterochrony:__ The evolutionary change in the timing of development.
