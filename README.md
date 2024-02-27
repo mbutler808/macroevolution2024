@@ -124,7 +124,7 @@ Very optional commentary (read after you do your concept map):
 
 ### A. Ontogeny and Phylogeny I: Heterochrony and Ontogenetic Repatterning
 
-### [Feb 27](./discussions/2024-02-27-heterochrony)\]    
+### \[[Feb 27](./discussions/2024-02-27-heterochrony)\]    
 
 19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. _Nature Reviews Genetics_ 8:473-479.    **map:Rai**
 

@@ -17,7 +17,7 @@ _Cryptobranchus alleganiensis_ or "hellbender"
 
 <a title="Ns4571a, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hellbender_Salamander.JPG"><img width="512" alt="Hellbender Salamander" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hellbender_Salamander.JPG/512px-Hellbender_Salamander.JPG"></a>
 
-19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. _Nature Reviews Genetics_ 8:473-479.    
+### 19. [Wagner, G. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). The developmental genetics of homology. _Nature Reviews Genetics_ 8:473-479.    
 
 Exploration of the hierarchical structure of homology, including the relationship between morphological homology and the structures of genetic systems. Pay close attention to the meanings of character identity networks (ChINs) and gene regulatory networks (GRNs).
 
@@ -27,9 +27,11 @@ Exploration of the hierarchical structure of homology, including the relationshi
 
 #### Questions 
 
+1. Why are character identities and character states regulated by different Gene regulatory networks? Does it provide any advantages in regards to evolution?
+2. How can we tackle the problem of novelty in morphological or genetic states? Can these novelties be assessed in terms of homology, if not then how can we consider them evolutionary?
 
 
-20. [Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Size and shape in ontogeny and phylogeny. _Paleobiology_ 5:296-317.   
+### 20. [Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Size and shape in ontogeny and phylogeny. _Paleobiology_ 5:296-317.   
 
 A classic paper giving formal definitions of the standard patterns and processes of heterochrony, especially as relevant to changes occurring relatively late in ontogeny (retroactively termed "de Beerian heterochrony" by many authors). This is the standard scheme against which others are compared.
 
@@ -40,6 +42,9 @@ A classic paper giving formal definitions of the standard patterns and processes
 
 #### Questions 
 
+1. What is size and shape referring to? Can the ideas related to development of size and shape be applied to other features besides physical volume/form?
+2. Do you think any one factor is universally most influential on size and shape or does this vary by organism and even individual?
+3. How can change in developmental timing result in reproductive isolation? Is this process easily distinguishable from slow morphological shifts (phyletic gradualism) in life?
 
 
 
