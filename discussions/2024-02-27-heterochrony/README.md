@@ -36,6 +36,20 @@ Exploration of the hierarchical structure of homology, including the relationshi
 A classic paper giving formal definitions of the standard patterns and processes of heterochrony, especially as relevant to changes occurring relatively late in ontogeny (retroactively termed "de Beerian heterochrony" by many authors). This is the standard scheme against which others are compared.
 
 
+__Haeckelʻs Biogenetic law (1866)__ "Ontogeny recapitulates phylogeny"
+- Coined the term "heterochrony" to indicate deviations from the Biogenetic law. 
+
+__Heterochrony:__ The evolutionary change in the timing of development.
+
+__Von Bayerʻs Four laws of embryology (1828):__
+1. […] the more general characters of a large group appear earlier in the embryo than the more special characters.
+2. From the most general forms the less general are developed, and so on, until finally the most special arises.
+3. Every embryo of a given animal form, instead of passing through the other forms, rather becomes separated from them.
+4. Fundamentally, therefore, the embryo of a higher form never resembles any other form, but only its embryo. 
+
+__SJ Gould (1977)__ "Ontogeny and Phylogeny" 
+- Argues that you can get punctuated change through evolutionary changes in development "Saltational change"
+
 #### Concept Map by Allison Fisher   
 
 <img width="700" src="Alberch1979_conceptmap_af.jpg" >
