@@ -17,6 +17,9 @@ An important paper showing that the standard categorization of heterochronic pat
 
 #### Questions 
 
+1. In broadening the definition of heterochrony, Raff and Wray point out that morphological heterochrony is not necessarily achieved through timing changes in development. For cases such as these (e.g., the Axolotl), would we need a new definition for the observed condition? Is morphological heterochrony caused by non-timing mechanisms still heterochrony? Further, is their assessment of these conditions wholly valid? Wouldn't the hormonal change in Axolotl development still count as a mechanism of Termination? 
+
+2. The authors suggest that Heterochrony might be the predominant mode of evolutionary change. They follow by saying that this question is "likely to remain unanswered for some time". Where do we stand on this today? 
 
 22. [Wagner, G. P. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The significance of developmental constraints for phenotypic evolution by natural selection. Pp. 222-229 in G. de Jong (ed.) Population Genetics and Evolution, Springer-Verlag, Berlin.
 
@@ -24,11 +27,13 @@ The first paper to show that developmental constraints could enhance rather than
 
 #### Concept Map by Dani Bartz  
 
-<img width="700" src="Wagner1988_conceptmap_db.jpg" >
+<img width="700" src="Wagner1988_conceptmap_db.png" >
 
 #### Questions 
 
+1. What do you think are some examples of unconstrained characters and how may these have played a part in the phenotypic variation of that species? (Think about extinct species because the phenotypic evolution of them would have decreased)
 
+2. Can you think of any related groups in which one has one character fixed and in the other it's variable?
 
 
 
