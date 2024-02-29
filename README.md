@@ -133,7 +133,7 @@ Very optional commentary (read after you do your concept map):
 
 ### B. Modularity and Genetic Architecture
 
-### [Feb 29]  
+### \[[Feb 29](./discussions/2024-02-29-modularity)\]    
 
 21. [Raff, R. A. and G. A. Wray. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Heterochrony: Developmental mechanisms and evolutionary results. Journal of Evolutionary Biology 2:409-434.  **map:Danny**   
 
@@ -141,14 +141,14 @@ Very optional commentary (read after you do your concept map):
 
 ### C. Evolution of Genetic Architecture
 
-### [Mar 5]
+### \[[Mar 5](./discussions/2024-03-05-genetic-architecture)\]  
 
 23. [Hansen, T. F. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evolution of genetic architecture. Annual Review of Ecology, Evolution and Systematics 37:123-157.  **map:Rai**
 
 24. [Wagner, G. P., M. Pavlicev and J. M. Cheverud. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The road to modularity. Nature Reviews Genetics 8:921-931. **map:Allison**
 
 ### D. Evo Devo and the Genetics of Adaptation  
-### [Mar 7]  
+### \[[Mar 7](./discussions/2024-03-07-evodevo-adaptation)\]  
 
 25. [Carroll, S. B. 2008](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Evo-devo and an expanding evolutionary synthesis: a genetic theory of morphological evolution. Cell 134:25-36.  **map:Danny**
 
