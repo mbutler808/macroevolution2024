@@ -7,7 +7,7 @@
 Annotations by [Allan Larson](https://biology.wustl.edu/people/allan-larson)  
 
 
-21. [Raff, R. A. and G. A. Wray. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Heterochrony: Developmental mechanisms and evolutionary results. Journal of Evolutionary Biology 2:409-434.    
+### 21. [Raff, R. A. and G. A. Wray. 1989](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Heterochrony: Developmental mechanisms and evolutionary results. Journal of Evolutionary Biology 2:409-434.    
 
 An important paper showing that the standard categorization of heterochronic patterns and processes (Galis 2001) is difficult to apply to early ontogeny and/or between hierarchical levels (organismal morphology versus gene expression).
 
@@ -21,7 +21,7 @@ An important paper showing that the standard categorization of heterochronic pat
 
 2. The authors suggest that Heterochrony might be the predominant mode of evolutionary change. They follow by saying that this question is "likely to remain unanswered for some time". Where do we stand on this today? 
 
-22. [Wagner, G. P. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The significance of developmental constraints for phenotypic evolution by natural selection. Pp. 222-229 in G. de Jong (ed.) Population Genetics and Evolution, Springer-Verlag, Berlin.
+### 22. [Wagner, G. P. 1988](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The significance of developmental constraints for phenotypic evolution by natural selection. Pp. 222-229 in G. de Jong (ed.) Population Genetics and Evolution, Springer-Verlag, Berlin.
 
 The first paper to show that developmental constraints could enhance rather than just inhibit adaptive evolution by natural selection. This paper was critical in the synthesis of structuralist and functionalist approaches to the study of form, and made the concept of developmental constraint more accessible to hardcore Darwinians. Note the structure of the corridor models of adaptation.
 
