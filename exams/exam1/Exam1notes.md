@@ -1,0 +1,22 @@
+Exam 1 notes
+
+- Remember to answer the question that was asked. 
+
+Question 2. 
+
+This question asked about the authorʻs concept of morphological characters and homology. This is the heart of the question, yet most folks failed to define morphological characters.  This required you to infer the meaning based on the usage. For example, somee authors are only thinking about morphological features of adult forms (e.g., Patterson), whereas other authors distinguish between "instantaneous morphologies" and "ontogenetic transformations" as characters (e.g, de Quieroz).  Another point that folks didnʻt clarify was the use of ontogeny (development) and the relevance of homology to phylogeny, which required distinguishing between development (comparison within an individual) versus phylogeny (comparison across species). 
+
+
+Question 2. 
+
+So for example, de Quieroz has two views of morphological characters, one as "instantaneous morphologies" (i.e., morphologies at a particular snapshot in time), and another more inclusive view that includes ontogeny. He views "ontogenetic transformations" as made up of a series of "instantaneous morphologies".   He argues that the ontogenetic transformation should be the character used in phylogenetics rather than instantaneous morphologies. Ontogeny is used to polarize instantaneous morphologies within characters, and outgroup comparison is used to give phylogentic polarity between characters. 
+
+A homology in his view is a similarity inherited from a common ancestor, which includes both synapomorphy and symplesiomorphy. A homology involves a comparison between instantaneous morphologies whereas synapomorphies are characters of monophyletic groups. He concludes that homology as describing a relationship between instantaneous forms, and synapomorphy as describintg a relationship between ontogenetic transformations.  While his focus on ontogenetic transformation seems like transformational homology, but his overall concept could be argued as taxic by including synapomorphy. 
+
+His relationship of homology to phylogeny involves comparing homologies to determine character polarity (within characters), and then comparing the characters of ontogenetic transformations by outgroup comparison to make phylogenetic inferences. 
+
+Patterson, a pattern cladist, has a very different view. He focuses on instantaneous morphologies as characters and states that evolution is unknowable. Cladistics should therefore be used to reflect their proper grouping within the natural order.  He identifies three tests for homology: similarity, congruence, and conjunction (which should be defined) and equates synapomorphy with homology.  Patterson uses ontogeny to test for homology, and argues that ontogeny only is knowable (as opposed to evolution). He has a taxic view of homology because he compares instantaneous morphologies to identify their proper grouping, with phylogeny reflecting a nested heirarchal pattern reflecting the orderliness of ontogeny when compared among taxa.
+
+Kaplan also considers instantaneous morphologies as characters, but emphasizes identifing homologies as a goal, not using  homolgies to understand evolution or natural order like Patterson and de Quieroz. His criteria include (1) same spatial position, (2) have some special feature and (3) connection by intermediate forms. He uses ontogenetic evidence to establish that two features are connected by intermediate forms and are therefore homologous. His concern is with transitions of characters (development) and less so with phylogeny, so his approach has a transformational emphasis. 
+
+Wagner, like Kaplan, is interested in the homologies themselves. His concept of homology involves sameness or equivalence of parts that result from conservation, uniqueness (similar to Kaplan), and individuality, and also places strong emphasis on common descent (like de Quieroz). He intriguingly also focuses on continuity of information which may be genetic or not (in which case it is conservation of some aspect of developmental program). He distinguishes between characters (the conserved parts of the morphology that do not change through evolution but are very interesting to explain for developmental biology), and character states (the more variable parts of characters that are informative for phylogeny). His emphasis on what remains conserved vs. what what is unique and free to evolve (indivduality) emphasizes major morphological changes through evolution, and is therefore a transformational view of homology. 
