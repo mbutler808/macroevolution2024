@@ -29,7 +29,7 @@ A thoughtful and important coverage of the critical concept of modularity in evo
 
 #### Concept Map by Allison Fisher  
 
-<img width="700" src="Wagner1988_conceptmap_af.png" >
+<img width="700" src="Wagner2007_conceptmap_af.jpg" >
 
 #### Questions 
 
