@@ -15,7 +15,7 @@ The concept of genetic architecture and its evolution is important both to issue
 #### Concept Map by Rai Malayaj   
 
 <img width="700" src="Hansen2006_conceptmap_rm1.png" >
-<img width="700" src="Hansen2006_conceptmap_rm2.png" >
+<img width="700" src="Hansen2006_conceptmap_rm.2.png" >
 
 #### Questions 
 
