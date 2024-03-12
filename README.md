@@ -155,7 +155,7 @@ Very optional commentary (read after you do your concept map):
 26. [Beldade, P., Koops, K., and Brakefield, P. M. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Modularity, individuality, and evo-devo in butterfly wings. PNAS 99(22):14262-14267 https://doi.org/10.1073/pnas.222236199   **map:Dani**
 
 ### E. The Evolution of Evolvability  
-### [Mar 12]
+### \[[Mar 12](./discussions/2024-03-12-evolvability)\]
 
 27. [Wagner, G. P., Altenberg, L. 1996](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Perspective: Complex adaptations and the evolution of evolvability. Evolution 50(3):967-967.  **map:Rai** 
 
@@ -167,12 +167,14 @@ Just FYI (not assigned, some other amazing papers):
 
 ## Key Innovations 
 
-### [Mar 14]   
+### \[[Mar 14](./discussions/2024-03-14-key-innovations-exaptation)\]   
 
 30. [Galis, F. 2001](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Key innovations and radiations. Pp. 581-605 in G. P. Wagner (ed.) The Character Concept in Evolutionary Biology. Academic Press, San Diego.  **map:Danny**
 
 31. [Jablonski, D. 2005](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Evolutionary innovations in the fossil record: The intersection of ecology, development and macroevolution. Journal of Experimental Zoology 304B:504-519.  **map:Dani**
 
+34. [Gould, S.J., Vrba, E.S. 1982](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Exaptation-A missing term in the science of form. Paleobiology. 8(1):4-15. **map:Marguerite**
+ 
 ### [Wicked-good critiques of the Adaptationist program: a brief digression](./Adaptationist.md)
 
 
