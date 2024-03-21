@@ -180,7 +180,9 @@ Just FYI (not assigned, some other amazing papers):
 
 ### Mar 18 - 22 **Spring Break**  
 
-### Exam II Due April 4 ?
+### Exam II Due April 5 at 5pm
+
+\[[Exam 2](./exams/exam2)\]
 
 ### Mar 26  Kuhio Day Holiday  
 
