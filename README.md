@@ -210,38 +210,38 @@ FYI:
 
 ### [Apr 4] - Bayesian methods, Molecular approaches to Adaptation  
 
-42. [Maddison, W. P. 1997](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Gene trees in species trees. Systematic Biology 46(3):523-536  
+42. [Maddison, W. P. 1997](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Gene trees in species trees. Systematic Biology 46(3):523-536 **map:Allison**  
 
-43. [Drummond, A. J., Nicholls, G. K., Rodrigo, A. G., and Solomon, W. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Estimating Mutation parameters, population history and geneaology simultaneously from temporally spaced sequence data. Genetics 161:1307-1320.    
+43. [Drummond, A. J., Nicholls, G. K., Rodrigo, A. G., and Solomon, W. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Estimating Mutation parameters, population history and geneaology simultaneously from temporally spaced sequence data. Genetics 161:1307-1320.  **map:Rai**  
 
-44. [Yang, Z., Nielsen, R. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Substitution models for detecting molecular adaptation at individual sites along specific lineages. Mol. Biol. Evol. 19(6):908-917.   
+44. [Yang, Z., Nielsen, R. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Substitution models for detecting molecular adaptation at individual sites along specific lineages. Mol. Biol. Evol. 19(6):908-917.   **map:Dani**  
 
 
 ### [Apr 9] - Adaptation and Ecomorphology  
 
-45. [Arnold, S. J. 1983.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Morphology, Performance, and Fitness. American Zoologist 23:347-361.  
+45. [Arnold, S. J. 1983.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Morphology, Performance, and Fitness. American Zoologist 23:347-361.  **map:Danny**  
 
-46. [Losos, J. B. 1990.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Ecomorphology, performance capability, and scaling of West Indian Anolis lizards: an evolutionary analysis. Ecological Monographs, 60(3):369-388.    
+46. [Losos, J. B. 1990.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Ecomorphology, performance capability, and scaling of West Indian Anolis lizards: an evolutionary analysis. Ecological Monographs, 60(3):369-388.    **map:Allison** 
 
 
 ### [Apr 11] - Phylogenetic Comparative Methods  
 
-47. [Felsenstein, J. 1985.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenies and the comparative method. American Naturalist 125:1-15.   
+47. [Felsenstein, J. 1985.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenies and the comparative method. American Naturalist 125:1-15.   **map:Rai**  
 
-48. [Butler, M. A., and King, A. A. 2004.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenetic comparative analysis: a modeling approach for adaptive evolution. American Naturalist 164:683-695. [Appendix](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM)   
+48. [Butler, M. A., and King, A. A. 2004.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenetic comparative analysis: a modeling approach for adaptive evolution. American Naturalist 164:683-695. [Appendix](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM)   **map:Marguerite**
 
 
 ### [Apr 16] - Diversity through Time  
 
-49. [Nee, S. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Birth-death models in macroevolution. Ann. Rev. Ecol. Evol. Syst. 37:1-17. DOI: 10.1146/annurev.ecolsys.37.091305.110035  
+49. [Nee, S. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Birth-death models in macroevolution. Ann. Rev. Ecol. Evol. Syst. 37:1-17. DOI: 10.1146/annurev.ecolsys.37.091305.110035   **map:Dani**   
 
-51. [FitzJohn, R. G. 2010](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Quantitative traits and diversification. Systematic Biology 59:619-33. DOI:10.1093/sysbio/syq053  
+51. [FitzJohn, R. G. 2010](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Quantitative traits and diversification. Systematic Biology 59:619-33. DOI:10.1093/sysbio/syq053  **map:Danny**  
 
-52. [Maddison, W. P., Midford, P. E., Otto, S. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Estimating a binary character's effect on speciation and extinction. Systematic Biology 56(5):701-710.  (substitute for Quasse FitzJohn paper)  
+52. [Maddison, W. P., Midford, P. E., Otto, S. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Estimating a binary character's effect on speciation and extinction. Systematic Biology 56(5):701-710.  (substitute for Quasse FitzJohn paper)  **map:Allison**   
 
 ### [Apr 18]
 
-53. [Schwartz, S., Budd, A. F., and D. B. Carlon. 2012](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Molecules and fossils reveal punctuated diversification in Caribbean “faviid” corals. BMC Evolutionary Biology. 12:123 doi:10.1186/1471-2148-12-123 
+53. [Schwartz, S., Budd, A. F., and D. B. Carlon. 2012](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Molecules and fossils reveal punctuated diversification in Caribbean “faviid” corals. BMC Evolutionary Biology. 12:123 doi:10.1186/1471-2148-12-123  **map:Rai**  
 
 54. Please skim [Cracraft, J. 1983](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Cladistic analysis and vicariance biogeography. American Scientist, 71:273-281. Skim and understand these key words/sections: paragraph 2 pg 273, character polarity (ontogenetic vs. outgroup criterion), vicariance biogeography, congruence, areas of endemism, general-area cladogram.
 
@@ -249,25 +249,25 @@ FYI:
 
 ### [Apr 23] - Phylogenetic approaches to Biogeography  
 
-55. [Ree, R. H., and Smith, S. A. 2008](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Maximum likelihood inference of geographical range evolution by dispersal, local extinction, and cladogenesis. Systematic Biology, 57(1):4-14. 
+55. [Ree, R. H., and Smith, S. A. 2008](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Maximum likelihood inference of geographical range evolution by dispersal, local extinction, and cladogenesis. Systematic Biology, 57(1):4-14. **map:Dani**
 
-56. [Quintero, I., and Landis, M. J. 2020](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology DOI:10.1093/sysbio/syz082. 
+56. [Quintero, I., and Landis, M. J. 2020](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology DOI:10.1093/sysbio/syz082. **map:Danny**
 
-57. [Ronquist, F., Sanmartin, I. 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenetic Methods in Biogeography. Annu. Rev. Ecol. Evol. Syst. 42:441–64. DOI: 10.1146/annurev-ecolsys-102209-144710  
+57. [Ronquist, F., Sanmartin, I. 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenetic Methods in Biogeography. Annu. Rev. Ecol. Evol. Syst. 42:441–64. DOI: 10.1146/annurev-ecolsys-102209-144710  **map:Rai**  
 
 
 ### [Apr 25] - Hybridization  
 
-58. [Wendel, J. F. 2000.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Genome evolution in polyploids. Plant Molecular Biology 42: 225-249. 
+58. [Wendel, J. F. 2000.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Genome evolution in polyploids. Plant Molecular Biology 42: 225-249. **map:Allison**  
 
-59. [Brawand, D., Wagner, C. E., Yang, I. L., et al. 2014](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The genomic substrate for adaptive radiation in African cichlid fish. Nature 513:375-381. doi:10.1038/nature13726 
+59. [Brawand, D., Wagner, C. E., Yang, I. L., et al. 2014](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The genomic substrate for adaptive radiation in African cichlid fish. Nature 513:375-381. doi:10.1038/nature13726  **map:Dani**  
 
 
 ### [Apr 30] - Extinction  
 
-60. [Hampe, A., Petit, R. J. 2005](https://digital.csic.es/bitstream/10261/64087/1/j.1461-0248.2005.00739.x.pdf) Conserving biodiversity under climate change: the rear edge matter. Ecology Letters 8(5):461-467. 
+60. [Hampe, A., Petit, R. J. 2005](https://digital.csic.es/bitstream/10261/64087/1/j.1461-0248.2005.00739.x.pdf) Conserving biodiversity under climate change: the rear edge matter. Ecology Letters 8(5):461-467. **map:Danny**  
 
-61. [Barnosky, A. D., Marzke, N., Tomiya, S., et al. 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Has the Earth's sixth mass extinction already arrived? Nature: 471:51-57. DOI: 10.1038/nature09678 
+61. [Barnosky, A. D., Marzke, N., Tomiya, S., et al. 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Has the Earth's sixth mass extinction already arrived? Nature: 471:51-57. DOI: 10.1038/nature09678  **map:Allison**  
 
 
 ### [May 2 Exam 3] - no class - due May 10  
