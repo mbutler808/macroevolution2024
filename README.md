@@ -208,7 +208,7 @@ FYI:
 41. [Swofford, D. L., Olsen, G. J, Waddell, P. J., and Hillis, D. M. 1996](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Chapter 11: Phylogenetic inference. pp. 407-514 in *Molecular Systematics*, 2nd. edition.Ed by: Hillis, D. M., Moritz, C., and Mable, B. K. Sinauer.  
 
 
-### [Apr 4] - Bayesian methods, Molecular approaches to Adaptation  
+### \[[Apr 4](./discussions/2024-04-04-bayesian-adaptation)\] - Bayesian methods, Molecular approaches to Adaptation  
 
 42. [Maddison, W. P. 1997](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Gene trees in species trees. Systematic Biology 46(3):523-536 **map:Allison**  
 
