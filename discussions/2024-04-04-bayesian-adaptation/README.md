@@ -25,7 +25,7 @@
 
 #### Concept Map by Dani Bartz   
 
-<img width="700" src="Yang2002_conceptmap_db.jpg" >
+<img width="700" src="Yang2002_conceptmap_db.png" >
 
 #### Questions 
 
