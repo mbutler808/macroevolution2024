@@ -18,13 +18,10 @@ The comparative approach (comparing the phenotypes of species that differ in eco
 
 1. 
 
-#### Morphology, Performance, Fitness Path Diagram
-
-<img width="700" src="FitnessPathDiagram.jpg">
 
 46. [Losos, J. B. 1990.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Ecomorphology, performance capability, and scaling of West Indian Anolis lizards: an evolutionary analysis. Ecological Monographs, 60(3):369-388.    **map:Allison** 
 
-#### [Anolis Adaptive Radiation](./AnolisAdaptiveRadiation.pdf)
+#### \[[Anolis Adaptive Radiation](./AnolisAdaptiveRadiation.pdf)\]
 
 #### Concept Map by Allison Fisher   
 
