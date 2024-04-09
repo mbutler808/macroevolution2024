@@ -217,7 +217,7 @@ FYI:
 44. [Yang, Z., Nielsen, R. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Substitution models for detecting molecular adaptation at individual sites along specific lineages. Mol. Biol. Evol. 19(6):908-917.   **map:Dani**  
 
 
-### [Apr 9] - Adaptation and Ecomorphology  
+### \[[Apr 9](./discussions/2024-04-09-adaptation)\] - Comparative approaches to Adaptation and Ecomorphology  
 
 45. [Arnold, S. J. 1983.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Morphology, Performance, and Fitness. American Zoologist 23:347-361.  **map:Danny**  
 
