@@ -40,6 +40,8 @@ One of the first papers to use phylogenetics to infer demographic parameters. Th
 
 ### 44. [Yang, Z., Nielsen, R. 2002](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Substitution models for detecting molecular adaptation at individual sites along specific lineages. Mol. Biol. Evol. 19(6):908-917.   **map:Dani**  
 
+With mathematically explicit models of sequence evolution, it became possible to test many hypotheses beyond the topology and branch lengths of an evolutionary process. In particular, it was now possible to test for selection at particular sites and thus testing for molecular adaptation.
+
 #### Concept Map by Dani Bartz   
 
 <img width="700" src="Yang2002_conceptmap_db.png" >
