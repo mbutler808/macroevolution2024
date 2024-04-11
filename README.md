@@ -224,7 +224,7 @@ FYI:
 46. [Losos, J. B. 1990.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Ecomorphology, performance capability, and scaling of West Indian Anolis lizards: an evolutionary analysis. Ecological Monographs, 60(3):369-388.    **map:Allison** 
 
 
-### [Apr 11] - Phylogenetic Comparative Methods  
+### \[[Apr 11](./discussions/2024-04-11-phylogenetic-comparative-methods)\] - Phylogenetic Comparative Methods  
 
 47. [Felsenstein, J. 1985.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenies and the comparative method. American Naturalist 125:1-15.   **map:Rai**  
 
