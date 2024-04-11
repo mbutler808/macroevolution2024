@@ -235,9 +235,9 @@ FYI:
 
 49. [Nee, S. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Birth-death models in macroevolution. Ann. Rev. Ecol. Evol. Syst. 37:1-17. DOI: 10.1146/annurev.ecolsys.37.091305.110035   **map:Dani**   
 
-51. [FitzJohn, R. G. 2010](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Quantitative traits and diversification. Systematic Biology 59:619-33. DOI:10.1093/sysbio/syq053  **map:Danny**  
+51. [Maddison, W. P., Midford, P. E., Otto, S. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Estimating a binary character's effect on speciation and extinction. Systematic Biology 56(5):701-710.  (substitute for Quasse FitzJohn paper)  **map:Allison**   
 
-52. [Maddison, W. P., Midford, P. E., Otto, S. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Estimating a binary character's effect on speciation and extinction. Systematic Biology 56(5):701-710.  (substitute for Quasse FitzJohn paper)  **map:Allison**   
+52. [Kozak, Weisrock, Larson A. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Rapid lineage accumulation in a non-adaptive radiation: phylogenetic analysis of diversification rates in eastern North American woodland salamanders (Plethodontidae: _Plethodon_)  **map:Danny**  
 
 ### [Apr 18]
 
@@ -270,9 +270,8 @@ FYI:
 61. [Barnosky, A. D., Marzke, N., Tomiya, S., et al. 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Has the Earth's sixth mass extinction already arrived? Nature: 471:51-57. DOI: 10.1038/nature09678  **map:Allison**  
 
 
-### [May 2 Exam 3] - no class - due May 10  
+### [May 6 Final Exam] - In person LSB109D 9:45am-11:45am   
 
-### May 6-10 Final Exam week
 
 
 
