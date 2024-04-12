@@ -237,13 +237,13 @@ FYI:
 
 51. [Maddison, W. P., Midford, P. E., Otto, S. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Estimating a binary character's effect on speciation and extinction. Systematic Biology 56(5):701-710.  (substitute for Quasse FitzJohn paper)  **map:Allison**   
 
-52. [Kozak, Weisrock, Larson A. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Rapid lineage accumulation in a non-adaptive radiation: phylogenetic analysis of diversification rates in eastern North American woodland salamanders (Plethodontidae: _Plethodon_)  **map:Danny**  
-
 ### [Apr 18]
 
-53. [Schwartz, S., Budd, A. F., and D. B. Carlon. 2012](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Molecules and fossils reveal punctuated diversification in Caribbean “faviid” corals. BMC Evolutionary Biology. 12:123 doi:10.1186/1471-2148-12-123  **map:Rai**  
+52. [Kozak, Weisrock, Larson A. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Rapid lineage accumulation in a non-adaptive radiation: phylogenetic analysis of diversification rates in eastern North American woodland salamanders (Plethodontidae: _Plethodon_)  **map:Danny**  
 
-54. Please skim [Cracraft, J. 1983](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Cladistic analysis and vicariance biogeography. American Scientist, 71:273-281. Skim and understand these key words/sections: paragraph 2 pg 273, character polarity (ontogenetic vs. outgroup criterion), vicariance biogeography, congruence, areas of endemism, general-area cladogram.
+<skip> 53. [Schwartz, S., Budd, A. F., and D. B. Carlon. 2012](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Molecules and fossils reveal punctuated diversification in Caribbean “faviid” corals. BMC Evolutionary Biology. 12:123 doi:10.1186/1471-2148-12-123    
+
+54. Please skim [Cracraft, J. 1983](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Cladistic analysis and vicariance biogeography. American Scientist, 71:273-281. Skim and understand these key words/sections: paragraph 2 pg 273, character polarity (ontogenetic vs. outgroup criterion), vicariance biogeography **Rai**, congruence **Rai**, areas of endemism **Allison**, general-area cladogram **Allison**.
 
 
 
