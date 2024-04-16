@@ -231,7 +231,7 @@ FYI:
 48. [Butler, M. A., and King, A. A. 2004.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenetic comparative analysis: a modeling approach for adaptive evolution. American Naturalist 164:683-695. [Appendix](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM)   **map:Marguerite**
 
 
-### [Apr 16] - Diversity through Time  
+### \[[Apr 16](./discussions/2024-04-16-diversifcation)\] - Diversity through Time  
 
 49. [Nee, S. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Birth-death models in macroevolution. Ann. Rev. Ecol. Evol. Syst. 37:1-17. DOI: 10.1146/annurev.ecolsys.37.091305.110035   **map:Dani**   
 
