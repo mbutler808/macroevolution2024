@@ -2,9 +2,8 @@
 
 We will pick up from last time starting with Butler and King 2004
 
-### [48.Intro to Comparative Methods powerpoint](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM)
+[see 48.Intro to Comparative Methods powerpoint](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM)
 
-### 47. [Felsenstein, J. 1985.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenies and the comparative method. American Naturalist 125:1-15.     
 
 
 ## Diversity through time  
