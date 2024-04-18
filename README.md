@@ -237,7 +237,7 @@ FYI:
 
 51. [Maddison, W. P., Midford, P. E., Otto, S. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Estimating a binary character's effect on speciation and extinction. Systematic Biology 56(5):701-710.  (substitute for Quasse FitzJohn paper)  **map:Allison**   
 
-### \[[Apr 18](./discussions/2024-04-18-diversity-through-time)
+### \[[Apr 18](./discussions/2024-04-18-diversity-through-time)\]
 
 52. [Kozak, Weisrock, Larson A. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Rapid lineage accumulation in a non-adaptive radiation: phylogenetic analysis of diversification rates in eastern North American woodland salamanders (Plethodontidae: _Plethodon_)  **map:Danny**  
 
