@@ -1,38 +1,32 @@
-# April 16
+# April 18
 
-We will pick up from last time starting with Butler and King 2004
-
-[see 48.Intro to Comparative Methods powerpoint](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM)
-
+We will pick up from last time starting with Maddison, Midford and Otto 2007
 
 
 ## Diversity through time  
 
 
-### 49. [Nee, S. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Birth-death models in macroevolution. Ann. Rev. Ecol. Evol. Syst. 37:1-17. DOI: 10.1146/annurev.ecolsys.37.091305.110035    
+### 52. [Kozak, Weisrock, Larson A. 2006](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Rapid lineage accumulation in a non-adaptive radiation: phylogenetic analysis of diversification rates in eastern North American woodland salamanders (Plethodontidae: _Plethodon_)  
+#### Concept Map by Danny Cusimano  
 
-#### Concept Map by Dani Bartz  
-
-<img width="700" src="Nee2006_conceptmap_DB.png" >
-
-#### Questions
-
-1. What are some hypotheses (or your own speculations) for the remarkably high speciation rate of Hawaiian silverswords?
-
-2. At the top of p. 7, Nee indicates that we would expect the future lifetime of a species to be independent of how long it has been around already. Do you agree with this and why or why not? 
-
-
-### 51. [Maddison, W. P., Midford, P. E., Otto, S. P. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Estimating a binary character's effect on speciation and extinction. Systematic Biology 56(5):701-710.  (substitute for Quasse FitzJohn paper)  **map:Allison**   
-
-
-#### Concept Map by Allison Fisher  
-
-<img width="700" src="MaddisonEtAl2007_conceptmap_AF.jpg" >
+<img width="700" src="Kozak2006_conceptmap_DC.jpg" >
 
 #### Questions
 
-1. What sorts of characters might increase rate of speciation? Extinction?
+1. Given the time depth for the period of rapid divergence (~11-8 Ma), is it possible that some of these lineages did adapt to different conditions and that the similarity we currently see is due to parallel evolution?
 
-2. What are some of the limitations of this method? 
+2. How can we account for non-adaptive radiations in the fossil record? When the authors identify morphological crypsis (allowing for minor variations in color and size) are we to assume that the different species display the same variance? Are the species only able to be differentiated through genetics? 
 
+
+### 53. [Schwartz, S., Budd, A. F., and D. B. Carlon. 2012](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Molecules and fossils reveal punctuated diversification in Caribbean “faviid” corals. BMC Evolutionary Biology. 12:123 doi:10.1186/1471-2148-12-123    
+
+
+
+
+### 54. Please skim [Cracraft, J. 1983](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Cladistic analysis and vicariance biogeography. American Scientist, 71:273-281. Skim and understand these key words/sections: paragraph 2 pg 273, character polarity (ontogenetic vs. outgroup criterion), vicariance biogeography **Rai**, congruence **Rai**, areas of endemism **Allison**, general-area cladogram **Allison**.
+
+
+#### Questions
+
+1.
 
