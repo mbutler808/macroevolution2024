@@ -247,13 +247,14 @@ FYI:
 
 
 
-### [Apr 23] - Phylogenetic approaches to Biogeography  
+### \[[Apr 23](./discussions/2024-04-23-biogeography)\] - Phylogenetic approaches to Biogeography  
 
 55. [Ree, R. H., and Smith, S. A. 2008](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Maximum likelihood inference of geographical range evolution by dispersal, local extinction, and cladogenesis. Systematic Biology, 57(1):4-14. **map:Dani**
 
-56. [Quintero, I., and Landis, M. J. 2020](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology DOI:10.1093/sysbio/syz082. **map:Danny**
+56. [Landis, M. J., Quintero, I., Munoz, M.M., Zapata, F., and Donoghue, M.J. 2022](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Phylogenetic inference of where species spread or split
+across barriers. *PNAS* 119:e2116948119 https://doi.org/10.1073/pnas.2116948119  **map:Danny**
 
-57. [Ronquist, F., Sanmartin, I. 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Phylogenetic Methods in Biogeography. Annu. Rev. Ecol. Evol. Syst. 42:441–64. DOI: 10.1146/annurev-ecolsys-102209-144710  **map:Rai**  
+57. [Losos, J.B., Ricklefs, R.E. 2009](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Adaptation and diversification on islands. Nature 457:830-836 doi:10.1038/nature07893  **map:Rai**  
 
 
 ### [Apr 25] - Hybridization  
