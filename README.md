@@ -257,14 +257,14 @@ across barriers. *PNAS* 119:e2116948119 https://doi.org/10.1073/pnas.2116948119 
 57. [Losos, J.B., Ricklefs, R.E. 2009](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Adaptation and diversification on islands. Nature 457:830-836 doi:10.1038/nature07893  **map:Rai**  
 
 
-### [Apr 25] - Hybridization  
+### \[[Apr 25](./discussions/2024-04-25-hybridization)\] - Hybridization  
 
 58. [Wendel, J. F. 2000.](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Genome evolution in polyploids. Plant Molecular Biology 42: 225-249. **map:Allison**  
 
 59. [Brawand, D., Wagner, C. E., Yang, I. L., et al. 2014](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The genomic substrate for adaptive radiation in African cichlid fish. Nature 513:375-381. doi:10.1038/nature13726  **map:Dani**  
 
 
-### [Apr 30] - Extinction  
+### \[[Apr 30](./discussions/2024-04-30-extinction)\] - Extinction  
 
 60. [Hampe, A., Petit, R. J. 2005](https://digital.csic.es/bitstream/10261/64087/1/j.1461-0248.2005.00739.x.pdf) Conserving biodiversity under climate change: the rear edge matter. Ecology Letters 8(5):461-467. **map:Danny**  
 
