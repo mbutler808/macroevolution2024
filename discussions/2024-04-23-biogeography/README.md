@@ -13,12 +13,14 @@ Ree and Smith 2008 made a big spash with a maximum likelihood method (Dispersal-
 
 #### Concept Map by Dani Bartz  
 
-<img width="700" src="Ree2008_conceptmap_DB.jpg" >
+<img width="700" src="ReeSmith2008_conceptmap_DB.jpg" >
 
 
 #### Questions
 
-1. 
+1. On the last page, the authors mentioned that the DEC model may in fact be a poor fit to data on island biogeography, as exemplified by the case of Hawaiian Psychotria. How might this type of model differ in a location that is not separated by ocean barriers (such as a large continuous jungle or desert)?
+
+2. In Hawai'i they assumed that ancestral colonization occurred soon after island origination, starting with Kauai. How might this colonization change in a region that is all the same age? Or what about with a highly migratory species such as seabirds?
 
 ### 56. [Landis, M. J., Quintero, I., Munoz, M.M., Zapata, F., and Donoghue, M.J. 2022](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Phylogenetic inference of where species spread or split across barriers. *PNAS* 119:e2116948119 https://doi.org/10.1073/pnas.2116948119 
 
@@ -40,4 +42,6 @@ Losos and Ricklefs wrote this very interesting paper on Darwinʻs bicenntenial. 
 
 #### Questions
 
-1. 
+1. What is speciation threshold and how does it influence the rate of speciation?
+
+2. What's more in line with evolutionary outcomes on islands? Contingency or deterministic patterns?
