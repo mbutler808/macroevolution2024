@@ -28,10 +28,10 @@ The East African rift-lake cichlid radiaions (over 1500 species) are one of the 
 
 <div class="row">
   <div class="column">
-    <img src="fx1_lrg.jpg" style="width:100%" >
+    <img src="fx1_lrg.jpg" style="width:50%" >
   </div>
   <div class="column">
-    <img src="gr1_lrg.jpg" style="width:100%" >
+    <img src="gr1_lrg.jpg" style="width:50%" >
   </div>
  </div>
 
