@@ -13,7 +13,9 @@ Is hybridization a destructive or a cohesive or force in evolution? On the one h
 
 #### Questions
 
-1. 
+1. On page 231, Wendel raises the idea of “evolutionary flicker” where genes turn off and on. Do you think gene resuscitation via back mutation is really probable? Or can you think of an alternative explanation for what might be observed as “flickering”?
+
+2. We know different types of genes evolve at different rates. Do you think a duplication event might change these relative rates? 
 
 ### 59. [Brawand, D., Wagner, C. E., Yang, I. L., et al. 2014](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The genomic substrate for adaptive radiation in African cichlid fish. Nature 513:375-381. doi:10.1038/nature13726  **map:Dani**  
 
@@ -25,5 +27,8 @@ Is hybridization a destructive or a cohesive or force in evolution? On the one h
 
 #### Questions
 
-1. 
+1. While it was ultimately concluded that all of the various mechanisms discussed played a role in the rapid diversification of African cichlids, which of the mechanisms do you think may have been the strongest and why?
+
+2. Do you think that this level and speed of diversification was possible due to the closed system of a lake, or would you expect to see this in an ocean? What characteristics of a lake might increase or decrease fish diversification?
+
 
