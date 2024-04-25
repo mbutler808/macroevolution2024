@@ -26,8 +26,14 @@ The East African rift-lake cichlid radiaions (over 1500 species) are one of the 
 
  A lot of work has gone into understanding their morphological and functional variation. For example these images show lateral line evoluiton in relation to feeding morphs (from DOI:https://doi.org/10.1016/j.isci.2019.05.016)
 
-<img width="350" src="fx1_lrg.jpg" >
-<img width="350" src="gr1_lrg.jpg" >
+<div class="row">
+  <div class="column">
+    <img width="350" src="fx1_lrg.jpg" >
+  </div>
+  <div class="column">
+    <img width="350" src="gr1_lrg.jpg" >
+  </div>
+ </div>
 
 
 They also have extensive variation in coloration related to sexual selection (Both figures below from https://europepmc.org/article/PMC/3778878): 
