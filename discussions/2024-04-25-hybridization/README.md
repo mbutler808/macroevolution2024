@@ -17,6 +17,28 @@ Is hybridization a destructive or a cohesive or force in evolution? On the one h
 
 2. We know different types of genes evolve at different rates. Do you think a duplication event might change these relative rates? 
 
+
+### African Cichlids 
+
+The East African rift-lake cichlid radiaions (over 1500 species) are one of the most speciose and well-studied adaptive radiations of vertebrates. They have extensively diversified in feeding niche and jaw morphology, suggesting divergence resulting from natural selection (This is from Karel Leimʻs work in the 70s): 
+
+<img width="700" src="cichlidslineart.png" >
+
+ A lot of work has gone into understanding their morphological and functional variation. For example these images show lateral line evoluiton in relation to feeding morphs (from DOI:https://doi.org/10.1016/j.isci.2019.05.016)
+
+<img width="350" src="fx1_lrg.jpg" >
+<img width="350" src="gr1_lrg.jpg" >
+
+
+They also have extensive variation in coloration related to sexual selection (Both figures below from https://europepmc.org/article/PMC/3778878): 
+
+<img width="700" src="TanganyikaCichlids.jpg" >
+Fig. 1. Colour variation in African and neotropical cichlids. (A) Tropheus spp. colour morphs in Lake Tanganyika (photos by Wolfgang Gessl: www.pisces.at and Peter Berger: www.afrika-cichliden.de; see also Egger et al. [93]). (B) Apistogramma spp from the Amazon basin (top to bottom: A. steindachneri, A. borelli, A. trifasciata, A. panduro. Photos by Ricardo Britzke).
+
+<img width="700" src="ColorVariation.jpg" >
+Fig 2. Examples of the Haplochromine blotch polymorphism (all females). (A) Lake Victoria, from top: Neochromis omnicaeruleus: ancestral brown phenotype (P morph), orange blotched (OB morph), white blotched (WB morph); Paralabidochromis chromogynos (WB morph); P. chilotes (WB morph). Paralabidochromis photos by Ole Seehausen. (B) Lake Malawi, from top: Labeotropheus trewavasae (P morph); L. trewavasae (OB morph); Metriaclima xanstomachus (OB morph); M. pyrsonotus (OB morph, commonly called ‘orange’ morph); M. callainos (OB morph, commonly called ‘white’ morph). All of the morphs presented are heterozygous for the OB allele of pax7, regardless of degree of blotching. (Malawi photos by Reade Roberts).
+
+
 ### 59. [Brawand, D., Wagner, C. E., Yang, I. L., et al. 2014](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The genomic substrate for adaptive radiation in African cichlid fish. Nature 513:375-381. doi:10.1038/nature13726  **map:Dani**  
 
 
