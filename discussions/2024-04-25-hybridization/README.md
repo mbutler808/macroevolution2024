@@ -44,6 +44,18 @@ Fig. 1. Colour variation in African and neotropical cichlids. (A) Tropheus spp. 
 <img width="700" src="ColorVariation.jpg" >
 Fig 2. Examples of the Haplochromine blotch polymorphism (all females). (A) Lake Victoria, from top: Neochromis omnicaeruleus: ancestral brown phenotype (P morph), orange blotched (OB morph), white blotched (WB morph); Paralabidochromis chromogynos (WB morph); P. chilotes (WB morph). Paralabidochromis photos by Ole Seehausen. (B) Lake Malawi, from top: Labeotropheus trewavasae (P morph); L. trewavasae (OB morph); Metriaclima xanstomachus (OB morph); M. pyrsonotus (OB morph, commonly called ‘orange’ morph); M. callainos (OB morph, commonly called ‘white’ morph). All of the morphs presented are heterozygous for the OB allele of pax7, regardless of degree of blotching. (Malawi photos by Reade Roberts).
 
+Figures from Santos, M.E., Lopes, J.F. & Kratochwil, C.F. East African cichlid fishes. EvoDevo 14, 1 (2023). https://doi.org/10.1186/s13227-022-00205-5 
+
+<img width="700" src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13227-022-00205-5/MediaObjects/13227_2022_205_Fig5_HTML.png">
+Fig. 5 Axes of divergence in cichlid fishes. A selection of phenotypic traits and their variation in cichlid fishes. For example, highly diverse traits include trophic adaptations such as head shape (including the evolution of hypertrophied lips in crevice-feeding insect eaters) and teeth and jaw variation. Moreover, cichlids exhibit great variation in body shapes and fin morphology and variation in color patterns (including egg-spots) and behaviors, such as mating rituals and social behaviors
+
+<img width="700" src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13227-022-00205-5/MediaObjects/13227_2022_205_Fig1_HTML.png">
+Fig. 1 Evolution and Development of East African cichlid fishes. A Representatives of East African cichlids for which genomic information is available (Note: the Astatotilapia genus contains multiple paraphyletic species and is therefore found in both Lake Malawi and Lake Tanganyika). B Simplified phylogeny of East African cichlids with the radiations of Lakes Tanganyika (green), Malawi (blue), and Victoria (orange). C Life cycle of a substrate-brooding cichlid from Lake Tanganyika (Julidochromis ornatus) and a mouth-brooding, haplochromine cichlid from Lake Malawi (Melanochromis auratus). Photo credits: Ralf Schneider (A. burtoni in A)
+
+
+<img width="700" src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13227-022-00205-5/MediaObjects/13227_2022_205_Fig2_HTML.jpg">
+Fig. 2 Habitat of East African rift lake cichlid fishes. A–C Lakes Victoria (A), Malawi (B), and Tanganyika (C) are the hotspots of cichlid fish diversity with over 1200 mostly endemic species. D–F The waters of the three large rift lakes largely differ in visibility, with Lake Victoria being quite turbid (D) and Lake Tanganyika (F) and especially Lake Malawi (E) being much clearer. Note that the shown habitats are not fully representative of the rich diversity of lake habitats. Photo credits: Joanna Meier and Florian Moser (A, D), Hannes Svardal (B, E), Leo Lorber (C, F)
+
 
 ### 59. [Brawand, D., Wagner, C. E., Yang, I. L., et al. 2014](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The genomic substrate for adaptive radiation in African cichlid fish. Nature 513:375-381. doi:10.1038/nature13726  **map:Dani**  
 
