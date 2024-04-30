@@ -22,4 +22,8 @@ Extinction is of course another important evolutionary process shaping biodivers
 
 #### Questions
 
-1. 
+1. This paper is from 2011, do you imagine comparisons made now would be different? Would those changes likely be due to more data collected or actual extinctions in the past 13 years, or both?
+
+2. Do you think the recent phase of extinction has resulted in a decrease in total number of individual animals in the world (ie total animal biomass) or just number of species? How does this compare to other mass extinction events?
+
+3. Considering the question above, do you think our current situation is better characterized as a loss of diversity?
