@@ -271,8 +271,9 @@ across barriers. *PNAS* 119:e2116948119 https://doi.org/10.1073/pnas.2116948119 
 61. [Barnosky, A. D., Marzke, N., Tomiya, S., et al. 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) Has the Earth's sixth mass extinction already arrived? Nature: 471:51-57. DOI: 10.1038/nature09678  **map:Allison**  
 
 
-### [May 7 Final Exam] - In person LSB109D 9:45am-11:45am   
+### [May 7 Final Exam] - In person LSB109D 10:30am-12:30pm   
 
+\[[Exam 3](./exams/exam3)\]
 
 
 
