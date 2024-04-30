@@ -15,7 +15,7 @@ Please try to be concise, but content is more important than style. The primacy 
 
 Also remember to avoid a checklist style. Instead try to write a holistic answer with a thesis (i.e., your position on the question). The prompts are intended to guide you to a complete answer. Cover as much as you can in a cohesive answer.
 
-You may hand-write or type your answers. Please answer three of the four questions. I can't wait to read your answers! Best of luck, brilliant young evolutionary biologists.
+Please answer three of the four questions. I can't wait to read your answers! Best of luck, brilliant young evolutionary biologists.
 
 ### Questions
 
